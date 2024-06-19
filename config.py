@@ -13,6 +13,7 @@ source_urls = [
     'https://m3u.ibert.me/txt/j_iptv.txt',
     'https://live.zhoujie218.top/dsyy/mylist.txt',
     'https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/iptv.txt',
+    'https://raw.githubusercontent.com/chendi0207/my-TVBOX/e70ed527dd94c5d67a3e5708f2456130524e982d/tvboxqq/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lives/live.txt',
     'https://gitee.com/xxy002/zhiboyuan/raw/master/zby.txt',
     'https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt'
 ]
