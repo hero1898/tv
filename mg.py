@@ -14,6 +14,7 @@ def formatChannelName(name):
     name = re.sub(sub_pattern, "", name)
     name = name.replace("咪咕视频-", "咪咕体育")
     name = name.replace("咪咕直播-", "咪咕体育")
+    name = name.replace("咪咕直播_", "咪咕体育")
     name = name.replace("咪咕体育-", "咪咕体育")
     name = name.replace("咪咕", "咪咕体育")
     return name.lower()
