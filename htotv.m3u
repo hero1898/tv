@@ -57,6 +57,14 @@ http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 https://tv.iill.top/jd/fhzw
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
 http://0bd115.netsite.cc/proxy/1846789161/1846789161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
+http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
+http://113.64.145.195:8081/hls/37/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="🇭🇰港澳台🇭🇰",凤凰资讯
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="🇭🇰港澳台🇭🇰",凤凰资讯
@@ -151,6 +159,14 @@ https://z88.ubtvfans.com/live/rx3/2292/45ceb0f863d4b877269f3c784ff16f30/index.m3
 http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="🇭🇰港澳台🇭🇰",凤凰资讯
 http://113.117.74.19:8081/hls/36/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="🇭🇰港澳台🇭🇰",凤凰资讯
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="🇭🇰港澳台🇭🇰",凤凰资讯
+http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="🇭🇰港澳台🇭🇰",凤凰资讯
+http://113.64.145.195:8081/hls/36/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="🇭🇰港澳台🇭🇰",凤凰资讯
+http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰香港.png" group-title="🇭🇰港澳台🇭🇰",凤凰香港
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰香港.png" group-title="🇭🇰港澳台🇭🇰",凤凰香港
@@ -305,6 +321,8 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
 #EXTINF:-1 tvg-id="" tvg-name="耀才财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/耀才财经.png" group-title="🇭🇰港澳台🇭🇰",耀才财经
 http://202.69.67.66:443/webcast/bshdlivepc/playlist.m3u8?wowzasessionid=64000?zgangd
+#EXTINF:-1 tvg-id="" tvg-name="耀才财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/耀才财经.png" group-title="🇭🇰港澳台🇭🇰",耀才财经
+https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="面包台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/面包台.png" group-title="🇭🇰港澳台🇭🇰",面包台
 https://video.breadtv.com:8091/hlslive24/online/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="面包台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/面包台.png" group-title="🇭🇰港澳台🇭🇰",面包台
@@ -323,6 +341,18 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天新闻.png" group-title="🇭🇰港澳台🇭🇰",中天新闻
 http://ali.hlspull.yximgs.com/live/huanqiuhklivepjjtvvjjjyjuujjfvbscvjdjtwjfsjjsjjjcvuyjemjejtxw.flv
+#EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天新闻.png" group-title="🇭🇰港澳台🇭🇰",中天新闻
+http://livetv.skycf.eu.org/live.m3u8?c=7
+#EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天新闻.png" group-title="🇭🇰港澳台🇭🇰",中天新闻
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv009
+#EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天新闻.png" group-title="🇭🇰港澳台🇭🇰",中天新闻
+mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
+#EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天新闻.png" group-title="🇭🇰港澳台🇭🇰",中天新闻
+mitv://generationnexxxt.com:19806/e92e93fd67794e92acdc0d4005f0781a
+#EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天新闻.png" group-title="🇭🇰港澳台🇭🇰",中天新闻
+P2p://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
+#EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天新闻.png" group-title="🇭🇰港澳台🇭🇰",中天新闻
+P2p://generationnexxxt.com:19806/e92e93fd67794e92acdc0d4005f0781a
 #EXTINF:-1 tvg-id="" tvg-name="中视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视新闻.png" group-title="🇭🇰港澳台🇭🇰",中视新闻
 http://tv.redrainl.site:9500/live.m3u8?c=02
 #EXTINF:-1 tvg-id="" tvg-name="中视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视新闻.png" group-title="🇭🇰港澳台🇭🇰",中视新闻
@@ -331,6 +361,14 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 #EXTINF:-1 tvg-id="" tvg-name="中视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视新闻.png" group-title="🇭🇰港澳台🇭🇰",中视新闻
 http://50.7.238.114:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
+#EXTINF:-1 tvg-id="" tvg-name="中视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视新闻.png" group-title="🇭🇰港澳台🇭🇰",中视新闻
+http://livetv.skycf.eu.org/live.m3u8?c=6
+#EXTINF:-1 tvg-id="" tvg-name="中视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视新闻.png" group-title="🇭🇰港澳台🇭🇰",中视新闻
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv074
+#EXTINF:-1 tvg-id="" tvg-name="中视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视新闻.png" group-title="🇭🇰港澳台🇭🇰",中视新闻
+mitv://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
+#EXTINF:-1 tvg-id="" tvg-name="中视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视新闻.png" group-title="🇭🇰港澳台🇭🇰",中视新闻
+P2p://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
 #EXTINF:-1 tvg-id="" tvg-name="台视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视新闻.png" group-title="🇭🇰港澳台🇭🇰",台视新闻
 http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="台视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视新闻.png" group-title="🇭🇰港澳台🇭🇰",台视新闻
@@ -345,6 +383,14 @@ http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="台视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视新闻.png" group-title="🇭🇰港澳台🇭🇰",台视新闻
 http://198.16.100.90:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
+#EXTINF:-1 tvg-id="" tvg-name="台视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视新闻.png" group-title="🇭🇰港澳台🇭🇰",台视新闻
+http://livetv.skycf.eu.org/live.m3u8?c=4
+#EXTINF:-1 tvg-id="" tvg-name="台视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视新闻.png" group-title="🇭🇰港澳台🇭🇰",台视新闻
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv051
+#EXTINF:-1 tvg-id="" tvg-name="台视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视新闻.png" group-title="🇭🇰港澳台🇭🇰",台视新闻
+mitv://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
+#EXTINF:-1 tvg-id="" tvg-name="台视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视新闻.png" group-title="🇭🇰港澳台🇭🇰",台视新闻
+P2p://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
 #EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视新闻.png" group-title="🇭🇰港澳台🇭🇰",民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视新闻.png" group-title="🇭🇰港澳台🇭🇰",民视新闻
@@ -357,6 +403,16 @@ http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视新闻.png" group-title="🇭🇰港澳台🇭🇰",民视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视新闻.png" group-title="🇭🇰港澳台🇭🇰",民视新闻
+http://livetv.skycf.eu.org/live.m3u8?c=11
+#EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视新闻.png" group-title="🇭🇰港澳台🇭🇰",民视新闻
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-ftv13
+#EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视新闻.png" group-title="🇭🇰港澳台🇭🇰",民视新闻
+http://livetv.skycf.eu.org/live.m3u8?c=8
+#EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视新闻.png" group-title="🇭🇰港澳台🇭🇰",民视新闻
+mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
+#EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视新闻.png" group-title="🇭🇰港澳台🇭🇰",民视新闻
+P2p://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
 #EXTINF:-1 tvg-id="" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="🇭🇰港澳台🇭🇰",东森新闻
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="🇭🇰港澳台🇭🇰",东森新闻
@@ -367,6 +423,20 @@ http://198.16.100.90:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA27932117279321
 http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
 #EXTINF:-1 tvg-id="" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="🇭🇰港澳台🇭🇰",东森新闻
 http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
+#EXTINF:-1 tvg-id="" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="🇭🇰港澳台🇭🇰",东森新闻
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv152
+#EXTINF:-1 tvg-id="" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="🇭🇰港澳台🇭🇰",东森新闻
+mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
+#EXTINF:-1 tvg-id="" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="🇭🇰港澳台🇭🇰",东森新闻
+mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
+#EXTINF:-1 tvg-id="" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="🇭🇰港澳台🇭🇰",东森新闻
+mitv://generationnexxxt.com:19806/7bbf7bf4cb8f4a58893f6b5017a9fe05
+#EXTINF:-1 tvg-id="" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="🇭🇰港澳台🇭🇰",东森新闻
+P2p://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
+#EXTINF:-1 tvg-id="" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="🇭🇰港澳台🇭🇰",东森新闻
+P2p://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
+#EXTINF:-1 tvg-id="" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="🇭🇰港澳台🇭🇰",东森新闻
+P2p://generationnexxxt.com:19806/7bbf7bf4cb8f4a58893f6b5017a9fe05
 #EXTINF:-1 tvg-id="" tvg-name="TVBS新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVBS新闻.png" group-title="🇭🇰港澳台🇭🇰",TVBS新闻
 http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVBS新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVBS新闻.png" group-title="🇭🇰港澳台🇭🇰",TVBS新闻
@@ -387,32 +457,246 @@ https://fsv4.yj011.net/sat/tv551.flv
 http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVBS新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVBS新闻.png" group-title="🇭🇰港澳台🇭🇰",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVBS新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVBS新闻.png" group-title="🇭🇰港澳台🇭🇰",TVBS新闻
+http://livetv.skycf.eu.org/live.m3u8?c=5
+#EXTINF:-1 tvg-id="" tvg-name="TVBS新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVBS新闻.png" group-title="🇭🇰港澳台🇭🇰",TVBS新闻
+mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
+#EXTINF:-1 tvg-id="" tvg-name="TVBS新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVBS新闻.png" group-title="🇭🇰港澳台🇭🇰",TVBS新闻
+mitv://generationnexxxt.com:19806/65fa6dc600095b662a8020fe14c65804
+#EXTINF:-1 tvg-id="" tvg-name="TVBS新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVBS新闻.png" group-title="🇭🇰港澳台🇭🇰",TVBS新闻
+P2p://generationnexxxt.com:19806/65fa6dc600095b662a8020fe14c65804
 #EXTINF:-1 tvg-id="" tvg-name="寰宇新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/寰宇新闻.png" group-title="🇭🇰港澳台🇭🇰",寰宇新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="寰宇新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/寰宇新闻.png" group-title="🇭🇰港澳台🇭🇰",寰宇新闻
 http://ali.hlspull.yximgs.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
 #EXTINF:-1 tvg-id="" tvg-name="寰宇新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/寰宇新闻.png" group-title="🇭🇰港澳台🇭🇰",寰宇新闻
 http://ali.hlspull.yximgs.com/live/huanqiuhklivephxehmffjuxcxjvejejyhmnjjxjjhjdhnjbnxfdjfhyxw.flv
+#EXTINF:-1 tvg-id="" tvg-name="寰宇新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/寰宇新闻.png" group-title="🇭🇰港澳台🇭🇰",寰宇新闻
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn14
+#EXTINF:-1 tvg-id="" tvg-name="寰宇新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/寰宇新闻.png" group-title="🇭🇰港澳台🇭🇰",寰宇新闻
+mitv://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
+#EXTINF:-1 tvg-id="" tvg-name="寰宇新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/寰宇新闻.png" group-title="🇭🇰港澳台🇭🇰",寰宇新闻
+mitv://generationnexxxt.com:19806/ca27b65855704124be186aa0e5127c24
+#EXTINF:-1 tvg-id="" tvg-name="寰宇新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/寰宇新闻.png" group-title="🇭🇰港澳台🇭🇰",寰宇新闻
+P2p://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
+#EXTINF:-1 tvg-id="" tvg-name="寰宇新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/寰宇新闻.png" group-title="🇭🇰港澳台🇭🇰",寰宇新闻
+P2p://generationnexxxt.com:19806/ca27b65855704124be186aa0e5127c24
+#EXTINF:-1 tvg-id="" tvg-name="镜新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/镜新闻.png" group-title="🇭🇰港澳台🇭🇰",镜新闻
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv075
+#EXTINF:-1 tvg-id="" tvg-name="镜新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/镜新闻.png" group-title="🇭🇰港澳台🇭🇰",镜新闻
+mitv://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
+#EXTINF:-1 tvg-id="" tvg-name="镜新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/镜新闻.png" group-title="🇭🇰港澳台🇭🇰",镜新闻
+P2p://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
 #EXTINF:-1 tvg-id="" tvg-name="非凡新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/非凡新闻.png" group-title="🇭🇰港澳台🇭🇰",非凡新闻
 http://ali.hlspull.yximgs.com/live/twlivesztnfzzozdcbfcxvzfuuzzwezzzszyuhhdzszhzynffxw.flv
 #EXTINF:-1 tvg-id="" tvg-name="非凡新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/非凡新闻.png" group-title="🇭🇰港澳台🇭🇰",非凡新闻
 http://ali.hlspull.yximgs.com/live/huanqiuhklivesjtnfjjojdcbfcxvjfuujjwejjjsjyuhhdjsjhjynffxw.flv
 #EXTINF:-1 tvg-id="" tvg-name="非凡新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/非凡新闻.png" group-title="🇭🇰港澳台🇭🇰",非凡新闻
 http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
+#EXTINF:-1 tvg-id="" tvg-name="非凡新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/非凡新闻.png" group-title="🇭🇰港澳台🇭🇰",非凡新闻
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv010
+#EXTINF:-1 tvg-id="" tvg-name="非凡新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/非凡新闻.png" group-title="🇭🇰港澳台🇭🇰",非凡新闻
+mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
+#EXTINF:-1 tvg-id="" tvg-name="非凡新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/非凡新闻.png" group-title="🇭🇰港澳台🇭🇰",非凡新闻
+mitv://generationnexxxt.com:19806/65fa6fc4000df93d2a87ea67255a50ce
+#EXTINF:-1 tvg-id="" tvg-name="非凡新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/非凡新闻.png" group-title="🇭🇰港澳台🇭🇰",非凡新闻
+P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
+#EXTINF:-1 tvg-id="" tvg-name="非凡新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/非凡新闻.png" group-title="🇭🇰港澳台🇭🇰",非凡新闻
+P2p://generationnexxxt.com:19806/65fa6fc4000df93d2a87ea67255a50ce
+#EXTINF:-1 tvg-id="" tvg-name="中天亚洲" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天亚洲.png" group-title="🇭🇰港澳台🇭🇰",中天亚洲
+http://startv365.com:80/live/9794783213/6955630461/5555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="中天亚洲" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天亚洲.png" group-title="🇭🇰港澳台🇭🇰",中天亚洲
+mitv://generationnexxxt.com:19806/cb5ccc31dac94210bdc7507c320fb32e
+#EXTINF:-1 tvg-id="" tvg-name="中天亚洲" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天亚洲.png" group-title="🇭🇰港澳台🇭🇰",中天亚洲
+P2p://generationnexxxt.com:19806/cb5ccc31dac94210bdc7507c320fb32e
+#EXTINF:-1 tvg-id="" tvg-name="民视台湾" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视台湾.png" group-title="🇭🇰港澳台🇭🇰",民视台湾
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv001
+#EXTINF:-1 tvg-id="" tvg-name="民视台湾" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视台湾.png" group-title="🇭🇰港澳台🇭🇰",民视台湾
+mitv://generationnexxxt.com:19806/192bd12842624eb39e2f6b86eeacdca8
+#EXTINF:-1 tvg-id="" tvg-name="民视台湾" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视台湾.png" group-title="🇭🇰港澳台🇭🇰",民视台湾
+P2p://generationnexxxt.com:19806/192bd12842624eb39e2f6b86eeacdca8
+#EXTINF:-1 tvg-id="" tvg-name="台视财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视财经.png" group-title="🇭🇰港澳台🇭🇰",台视财经
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv056
+#EXTINF:-1 tvg-id="" tvg-name="台视财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视财经.png" group-title="🇭🇰港澳台🇭🇰",台视财经
+mitv://generationnexxxt.com:19806/e01d7738e33e456a812f7cefbf27b29a
+#EXTINF:-1 tvg-id="" tvg-name="台视财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视财经.png" group-title="🇭🇰港澳台🇭🇰",台视财经
+P2p://generationnexxxt.com:19806/e01d7738e33e456a812f7cefbf27b29a
+#EXTINF:-1 tvg-id="" tvg-name="东森财经新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森财经新闻.png" group-title="🇭🇰港澳台🇭🇰",东森财经新闻
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv153
+#EXTINF:-1 tvg-id="" tvg-name="国际财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/国际财经.png" group-title="🇭🇰港澳台🇭🇰",国际财经
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv104
 #EXTINF:-1 tvg-id="" tvg-name="台视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视.png" group-title="🇭🇰港澳台🇭🇰",台视
 http://162.19.247.76:22222/live/taishi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="台视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视.png" group-title="🇭🇰港澳台🇭🇰",台视
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv066
+#EXTINF:-1 tvg-id="" tvg-name="台视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视.png" group-title="🇭🇰港澳台🇭🇰",台视
+mitv://generationnexxxt.com:19806/3c20d4387ec845149b2ded5f28805f18
+#EXTINF:-1 tvg-id="" tvg-name="台视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视.png" group-title="🇭🇰港澳台🇭🇰",台视
+mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
+#EXTINF:-1 tvg-id="" tvg-name="台视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视.png" group-title="🇭🇰港澳台🇭🇰",台视
+P2p://generationnexxxt.com:19806/3c20d4387ec845149b2ded5f28805f18
+#EXTINF:-1 tvg-id="" tvg-name="台视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视.png" group-title="🇭🇰港澳台🇭🇰",台视
+P2p://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
+#EXTINF:-1 tvg-id="" tvg-name="民视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视.png" group-title="🇭🇰港澳台🇭🇰",民视
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv002
+#EXTINF:-1 tvg-id="" tvg-name="民视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视.png" group-title="🇭🇰港澳台🇭🇰",民视
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv155
+#EXTINF:-1 tvg-id="" tvg-name="民视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视.png" group-title="🇭🇰港澳台🇭🇰",民视
+mitv://generationnexxxt.com:19806/7b662823ed634f1fad66ab442b177118
+#EXTINF:-1 tvg-id="" tvg-name="民视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视.png" group-title="🇭🇰港澳台🇭🇰",民视
+mitv://generationnexxxt.com:19806/2fbdcb9b354a461b99ce6346109794a8
+#EXTINF:-1 tvg-id="" tvg-name="民视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视.png" group-title="🇭🇰港澳台🇭🇰",民视
+mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
+#EXTINF:-1 tvg-id="" tvg-name="民视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视.png" group-title="🇭🇰港澳台🇭🇰",民视
+mitv://generationnexxxt.com:19806/8d864649cfc54b518b3d137d67583155
+#EXTINF:-1 tvg-id="" tvg-name="民视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视.png" group-title="🇭🇰港澳台🇭🇰",民视
+P2p://generationnexxxt.com:19806/7b662823ed634f1fad66ab442b177118
+#EXTINF:-1 tvg-id="" tvg-name="民视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视.png" group-title="🇭🇰港澳台🇭🇰",民视
+P2p://generationnexxxt.com:19806/2fbdcb9b354a461b99ce6346109794a8
+#EXTINF:-1 tvg-id="" tvg-name="民视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视.png" group-title="🇭🇰港澳台🇭🇰",民视
+P2p://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
+#EXTINF:-1 tvg-id="" tvg-name="民视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视.png" group-title="🇭🇰港澳台🇭🇰",民视
+P2p://generationnexxxt.com:19806/8d864649cfc54b518b3d137d67583155
 #EXTINF:-1 tvg-id="" tvg-name="中视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视.png" group-title="🇭🇰港澳台🇭🇰",中视
 http://162.19.247.76:22222/live/zhongshi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="中视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视.png" group-title="🇭🇰港澳台🇭🇰",中视
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv040
+#EXTINF:-1 tvg-id="" tvg-name="中视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视.png" group-title="🇭🇰港澳台🇭🇰",中视
+mitv://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
+#EXTINF:-1 tvg-id="" tvg-name="中视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视.png" group-title="🇭🇰港澳台🇭🇰",中视
+mitv://generationnexxxt.com:19806/c4ede9c3d1a84d0b9afe57622abcb9e7
+#EXTINF:-1 tvg-id="" tvg-name="中视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视.png" group-title="🇭🇰港澳台🇭🇰",中视
+P2p://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
+#EXTINF:-1 tvg-id="" tvg-name="中视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视.png" group-title="🇭🇰港澳台🇭🇰",中视
+P2p://generationnexxxt.com:19806/c4ede9c3d1a84d0b9afe57622abcb9e7
 #EXTINF:-1 tvg-id="" tvg-name="华视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/华视.png" group-title="🇭🇰港澳台🇭🇰",华视
 http://162.19.247.76:22222/live/huashi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="华视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/华视.png" group-title="🇭🇰港澳台🇭🇰",华视
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv041
+#EXTINF:-1 tvg-id="" tvg-name="华视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/华视.png" group-title="🇭🇰港澳台🇭🇰",华视
+mitv://generationnexxxt.com:19806/761bc3c0662247d18b0db4da8070b7f4
+#EXTINF:-1 tvg-id="" tvg-name="华视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/华视.png" group-title="🇭🇰港澳台🇭🇰",华视
+mitv://generationnexxxt.com:19806/177390ae66634acca9be01242a769660
+#EXTINF:-1 tvg-id="" tvg-name="华视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/华视.png" group-title="🇭🇰港澳台🇭🇰",华视
+P2p://generationnexxxt.com:19806/761bc3c0662247d18b0db4da8070b7f4
+#EXTINF:-1 tvg-id="" tvg-name="华视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/华视.png" group-title="🇭🇰港澳台🇭🇰",华视
+P2p://generationnexxxt.com:19806/177390ae66634acca9be01242a769660
+#EXTINF:-1 tvg-id="" tvg-name="民视综艺" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视综艺.png" group-title="🇭🇰港澳台🇭🇰",民视综艺
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv004
+#EXTINF:-1 tvg-id="" tvg-name="民视第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视第一.png" group-title="🇭🇰港澳台🇭🇰",民视第一
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv003
+#EXTINF:-1 tvg-id="" tvg-name="民视第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视第一.png" group-title="🇭🇰港澳台🇭🇰",民视第一
+mitv://generationnexxxt.com:19806/b97979cec8d74feebc370f3470cc06c6
+#EXTINF:-1 tvg-id="" tvg-name="民视第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视第一.png" group-title="🇭🇰港澳台🇭🇰",民视第一
+mitv://generationnexxxt.com:19806/1c48731982a54a59a9555f7247f3bf7f
+#EXTINF:-1 tvg-id="" tvg-name="民视第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视第一.png" group-title="🇭🇰港澳台🇭🇰",民视第一
+P2p://generationnexxxt.com:19806/b97979cec8d74feebc370f3470cc06c6
+#EXTINF:-1 tvg-id="" tvg-name="民视第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视第一.png" group-title="🇭🇰港澳台🇭🇰",民视第一
+P2p://generationnexxxt.com:19806/1c48731982a54a59a9555f7247f3bf7f
+#EXTINF:-1 tvg-id="" tvg-name="民视旅游" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视旅游.png" group-title="🇭🇰港澳台🇭🇰",民视旅游
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-ftv07
+#EXTINF:-1 tvg-id="" tvg-name="亚洲旅游" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/亚洲旅游.png" group-title="🇭🇰港澳台🇭🇰",亚洲旅游
+mitv://generationnexxxt.com:19806/816c4598cfb641f5845b90a3bc772f1c
+#EXTINF:-1 tvg-id="" tvg-name="亚洲旅游" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/亚洲旅游.png" group-title="🇭🇰港澳台🇭🇰",亚洲旅游
+mitv://generationnexxxt.com:19806/259c24cb79ce4b5db1fb1e1b894c517e
+#EXTINF:-1 tvg-id="" tvg-name="亚洲旅游" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/亚洲旅游.png" group-title="🇭🇰港澳台🇭🇰",亚洲旅游
+P2p://generationnexxxt.com:19806/816c4598cfb641f5845b90a3bc772f1c
+#EXTINF:-1 tvg-id="" tvg-name="亚洲旅游" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/亚洲旅游.png" group-title="🇭🇰港澳台🇭🇰",亚洲旅游
+P2p://generationnexxxt.com:19806/259c24cb79ce4b5db1fb1e1b894c517e
+#EXTINF:-1 tvg-id="" tvg-name="中视菁采" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视菁采.png" group-title="🇭🇰港澳台🇭🇰",中视菁采
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv064
+#EXTINF:-1 tvg-id="" tvg-name="中视菁采" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视菁采.png" group-title="🇭🇰港澳台🇭🇰",中视菁采
+mitv://generationnexxxt.com:19806/ae5e01a7bc294327b88f65aa5d38217c
+#EXTINF:-1 tvg-id="" tvg-name="中视菁采" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视菁采.png" group-title="🇭🇰港澳台🇭🇰",中视菁采
+P2p://generationnexxxt.com:19806/ae5e01a7bc294327b88f65aa5d38217c
+#EXTINF:-1 tvg-id="" tvg-name="八大精彩" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大精彩.png" group-title="🇭🇰港澳台🇭🇰",八大精彩
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv034
+#EXTINF:-1 tvg-id="" tvg-name="八大综艺" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大综艺.png" group-title="🇭🇰港澳台🇭🇰",八大综艺
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv039
+#EXTINF:-1 tvg-id="" tvg-name="TVBS精采" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVBS精采.png" group-title="🇭🇰港澳台🇭🇰",TVBS精采
+mitv://generationnexxxt.com:19806/2089afbec2474359add275658522922f
+#EXTINF:-1 tvg-id="" tvg-name="TVBS精采" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVBS精采.png" group-title="🇭🇰港澳台🇭🇰",TVBS精采
+P2p://generationnexxxt.com:19806/2089afbec2474359add275658522922f
 #EXTINF:-1 tvg-id="" tvg-name="TVBS欢乐" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVBS欢乐.png" group-title="🇭🇰港澳台🇭🇰",TVBS欢乐
 https://fsv4.yj011.net/sat/tv421.flv
+#EXTINF:-1 tvg-id="" tvg-name="TVBS欢乐" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVBS欢乐.png" group-title="🇭🇰港澳台🇭🇰",TVBS欢乐
+mitv://generationnexxxt.com:19806/569aec3edbbc4267bd6f829b3d495d5a
+#EXTINF:-1 tvg-id="" tvg-name="TVBS欢乐" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVBS欢乐.png" group-title="🇭🇰港澳台🇭🇰",TVBS欢乐
+mitv://generationnexxxt.com:19806/b7e4efb094034ce1895b3d9a5548cc2b
+#EXTINF:-1 tvg-id="" tvg-name="TVBS欢乐" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVBS欢乐.png" group-title="🇭🇰港澳台🇭🇰",TVBS欢乐
+P2p://generationnexxxt.com:19806/569aec3edbbc4267bd6f829b3d495d5a
+#EXTINF:-1 tvg-id="" tvg-name="TVBS欢乐" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVBS欢乐.png" group-title="🇭🇰港澳台🇭🇰",TVBS欢乐
+P2p://generationnexxxt.com:19806/b7e4efb094034ce1895b3d9a5548cc2b
+#EXTINF:-1 tvg-id="" tvg-name="靖天欢乐" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天欢乐.png" group-title="🇭🇰港澳台🇭🇰",靖天欢乐
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv054
+#EXTINF:-1 tvg-id="" tvg-name="靖天欢乐" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天欢乐.png" group-title="🇭🇰港澳台🇭🇰",靖天欢乐
+mitv://generationnexxxt.com:19806/439163cf3469473b8ffd582b687991be
+#EXTINF:-1 tvg-id="" tvg-name="靖天欢乐" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天欢乐.png" group-title="🇭🇰港澳台🇭🇰",靖天欢乐
+P2p://generationnexxxt.com:19806/439163cf3469473b8ffd582b687991be
+#EXTINF:-1 tvg-id="" tvg-name="靖天综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天综合.png" group-title="🇭🇰港澳台🇭🇰",靖天综合
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv046
+#EXTINF:-1 tvg-id="" tvg-name="靖天综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天综合.png" group-title="🇭🇰港澳台🇭🇰",靖天综合
+mitv://generationnexxxt.com:19806/ed2e3f294dcc40c1b72aba372fbed64d
+#EXTINF:-1 tvg-id="" tvg-name="靖天综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天综合.png" group-title="🇭🇰港澳台🇭🇰",靖天综合
+P2p://generationnexxxt.com:19806/ed2e3f294dcc40c1b72aba372fbed64d
+#EXTINF:-1 tvg-id="" tvg-name="CATCHPLAY电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CATCHPLAY电影.png" group-title="🇭🇰港澳台🇭🇰",CATCHPLAY电影
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv076
+#EXTINF:-1 tvg-id="" tvg-name="靖天电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天电影.png" group-title="🇭🇰港澳台🇭🇰",靖天电影
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv061
+#EXTINF:-1 tvg-id="" tvg-name="靖天电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天电影.png" group-title="🇭🇰港澳台🇭🇰",靖天电影
+mitv://generationnexxxt.com:19806/d8c581e0e1a24823a3d2110e3584ef8b
+#EXTINF:-1 tvg-id="" tvg-name="靖天电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天电影.png" group-title="🇭🇰港澳台🇭🇰",靖天电影
+P2p://generationnexxxt.com:19806/d8c581e0e1a24823a3d2110e3584ef8b
+#EXTINF:-1 tvg-id="" tvg-name="龙华电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/龙华电影.png" group-title="🇭🇰港澳台🇭🇰",龙华电影
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn03
+#EXTINF:-1 tvg-id="" tvg-name="龙华电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/龙华电影.png" group-title="🇭🇰港澳台🇭🇰",龙华电影
+mitv://generationnexxxt.com:19806/1df6f5f0993a46faa17f676518654709
+#EXTINF:-1 tvg-id="" tvg-name="龙华电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/龙华电影.png" group-title="🇭🇰港澳台🇭🇰",龙华电影
+P2p://generationnexxxt.com:19806/1df6f5f0993a46faa17f676518654709
+#EXTINF:-1 tvg-id="" tvg-name="采昌影剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/采昌影剧.png" group-title="🇭🇰港澳台🇭🇰",采昌影剧
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv049
+#EXTINF:-1 tvg-id="" tvg-name="采昌影剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/采昌影剧.png" group-title="🇭🇰港澳台🇭🇰",采昌影剧
+mitv://generationnexxxt.com:19806/a0d691053f9b4876ab2b509a62296911
+#EXTINF:-1 tvg-id="" tvg-name="采昌影剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/采昌影剧.png" group-title="🇭🇰港澳台🇭🇰",采昌影剧
+P2p://generationnexxxt.com:19806/a0d691053f9b4876ab2b509a62296911
+#EXTINF:-1 tvg-id="" tvg-name="民视影剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视影剧.png" group-title="🇭🇰港澳台🇭🇰",民视影剧
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-ftv09
+#EXTINF:-1 tvg-id="" tvg-name="龙华经典" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/龙华经典.png" group-title="🇭🇰港澳台🇭🇰",龙华经典
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn21
+#EXTINF:-1 tvg-id="" tvg-name="中视经典" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视经典.png" group-title="🇭🇰港澳台🇭🇰",中视经典
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv080
+#EXTINF:-1 tvg-id="" tvg-name="中视经典" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视经典.png" group-title="🇭🇰港澳台🇭🇰",中视经典
+mitv://generationnexxxt.com:19806/8b9e15ff15474ccbbc2780c1484e50c9
+#EXTINF:-1 tvg-id="" tvg-name="中视经典" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视经典.png" group-title="🇭🇰港澳台🇭🇰",中视经典
+P2p://generationnexxxt.com:19806/8b9e15ff15474ccbbc2780c1484e50c9
+#EXTINF:-1 tvg-id="" tvg-name="靖洋戏剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖洋戏剧.png" group-title="🇭🇰港澳台🇭🇰",靖洋戏剧
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv045
+#EXTINF:-1 tvg-id="" tvg-name="靖洋戏剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖洋戏剧.png" group-title="🇭🇰港澳台🇭🇰",靖洋戏剧
+mitv://generationnexxxt.com:19806/84a559f1b4884854be933d5d4fc0d4a6
+#EXTINF:-1 tvg-id="" tvg-name="靖洋戏剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖洋戏剧.png" group-title="🇭🇰港澳台🇭🇰",靖洋戏剧
+P2p://generationnexxxt.com:19806/84a559f1b4884854be933d5d4fc0d4a6
 #EXTINF:-1 tvg-id="" tvg-name="靖天戏剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天戏剧.png" group-title="🇭🇰港澳台🇭🇰",靖天戏剧
 mitv://generationnexxxt.com:19806/1282202787324223b35e3c84d9e673c6
 #EXTINF:-1 tvg-id="" tvg-name="靖天戏剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天戏剧.png" group-title="🇭🇰港澳台🇭🇰",靖天戏剧
 P2p://generationnexxxt.com:19806/1282202787324223b35e3c84d9e673c6
+#EXTINF:-1 tvg-id="" tvg-name="靖天戏剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天戏剧.png" group-title="🇭🇰港澳台🇭🇰",靖天戏剧
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv058
+#EXTINF:-1 tvg-id="" tvg-name="公视戏剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/公视戏剧.png" group-title="🇭🇰港澳台🇭🇰",公视戏剧
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv042
+#EXTINF:-1 tvg-id="" tvg-name="龙华戏剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/龙华戏剧.png" group-title="🇭🇰港澳台🇭🇰",龙华戏剧
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn18
+#EXTINF:-1 tvg-id="" tvg-name="龙华戏剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/龙华戏剧.png" group-title="🇭🇰港澳台🇭🇰",龙华戏剧
+mitv://generationnexxxt.com:19806/5d4f0bd2b18b4a588a0ca733569b18dd
+#EXTINF:-1 tvg-id="" tvg-name="龙华戏剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/龙华戏剧.png" group-title="🇭🇰港澳台🇭🇰",龙华戏剧
+P2p://generationnexxxt.com:19806/5d4f0bd2b18b4a588a0ca733569b18dd
+#EXTINF:-1 tvg-id="" tvg-name="时尚运动X" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/时尚运动X.png" group-title="🇭🇰港澳台🇭🇰",时尚运动X
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv014
 #EXTINF:-1 tvg-id="" tvg-name="靖天资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天资讯.png" group-title="🇭🇰港澳台🇭🇰",靖天资讯
 mitv://generationnexxxt.com:19806/5c9d432112fd4d4e92263a34415293fa
+#EXTINF:-1 tvg-id="" tvg-name="靖天资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天资讯.png" group-title="🇭🇰港澳台🇭🇰",靖天资讯
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv065
+#EXTINF:-1 tvg-id="" tvg-name="靖天资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天资讯.png" group-title="🇭🇰港澳台🇭🇰",靖天资讯
+P2p://generationnexxxt.com:19806/5c9d432112fd4d4e92263a34415293fa
 #EXTINF:-1 tvg-id="" tvg-name="靖天国际" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天国际.png" group-title="🇭🇰港澳台🇭🇰",靖天国际
 http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
 #EXTINF:-1 tvg-id="" tvg-name="靖天国际" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天国际.png" group-title="🇭🇰港澳台🇭🇰",靖天国际
@@ -421,9 +705,29 @@ http://198.16.100.90:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E763247957632479
 https://z88.ubtvfans.com/live/rx1/345/6825b92840880152583b41b42f9370e3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="靖天国际" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天国际.png" group-title="🇭🇰港澳台🇭🇰",靖天国际
 https://ktpremium.com:443/K3939/6757/515025
+#EXTINF:-1 tvg-id="" tvg-name="靖天国际" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天国际.png" group-title="🇭🇰港澳台🇭🇰",靖天国际
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv063
+#EXTINF:-1 tvg-id="" tvg-name="靖天国际" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天国际.png" group-title="🇭🇰港澳台🇭🇰",靖天国际
+mitv://generationnexxxt.com:19806/12d39bada24843588ad72a3175b785a2
+#EXTINF:-1 tvg-id="" tvg-name="靖天国际" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天国际.png" group-title="🇭🇰港澳台🇭🇰",靖天国际
+P2p://generationnexxxt.com:19806/12d39bada24843588ad72a3175b785a2
 #EXTINF:-1 tvg-id="" tvg-name="靖天映画" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天映画.png" group-title="🇭🇰港澳台🇭🇰",靖天映画
 mitv://generationnexxxt.com:19806/b723859f3ed94e5ba712148b209eefd0
 #EXTINF:-1 tvg-id="" tvg-name="靖天映画" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天映画.png" group-title="🇭🇰港澳台🇭🇰",靖天映画
 P2p://generationnexxxt.com:19806/b723859f3ed94e5ba712148b209eefd0
 #EXTINF:-1 tvg-id="" tvg-name="靖天映画" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天映画.png" group-title="🇭🇰港澳台🇭🇰",靖天映画
 https://fm1077.serv00.net/litv.php?id=4gtv-4gtv055
+#EXTINF:-1 tvg-id="" tvg-name="靖天映画" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天映画.png" group-title="🇭🇰港澳台🇭🇰",靖天映画
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv055
+#EXTINF:-1 tvg-id="" tvg-name="龙华偶像" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/龙华偶像.png" group-title="🇭🇰港澳台🇭🇰",龙华偶像
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn12
+#EXTINF:-1 tvg-id="" tvg-name="龙华偶像" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/龙华偶像.png" group-title="🇭🇰港澳台🇭🇰",龙华偶像
+mitv://generationnexxxt.com:19806/5b720b1e1b404f129e7009363d3035f8
+#EXTINF:-1 tvg-id="" tvg-name="龙华偶像" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/龙华偶像.png" group-title="🇭🇰港澳台🇭🇰",龙华偶像
+P2p://generationnexxxt.com:19806/5b720b1e1b404f129e7009363d3035f8
+#EXTINF:-1 tvg-id="" tvg-name="好消息" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/好消息.png" group-title="🇭🇰港澳台🇭🇰",好消息
+https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-ftv16
+#EXTINF:-1 tvg-id="" tvg-name="好消息" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/好消息.png" group-title="🇭🇰港澳台🇭🇰",好消息
+mitv://generationnexxxt.com:19806/febf2282369d409d92d68514b72fc433
+#EXTINF:-1 tvg-id="" tvg-name="好消息" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/好消息.png" group-title="🇭🇰港澳台🇭🇰",好消息
+P2p://generationnexxxt.com:19806/febf2282369d409d92d68514b72fc433
