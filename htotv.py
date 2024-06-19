@@ -25,6 +25,10 @@ def formatChannelName(name):
     name = name.replace("數", "数")
     name = name.replace("實", "实")
     name = name.replace("電影", "电影")
+    name = name.replace("频道", "")
+    name = name.replace("凤凰卫视中文台", "凤凰中文")
+    name = name.replace("凤凰卫视资讯台", "凤凰资讯")
+    name = name.replace("台,http", ",http")
     return name.lower()
     
 def parse_template(template_file):
