@@ -10,8 +10,6 @@ http://[2409:8087:1a0b:df::4005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="" tvg-name="NewTV中国功夫" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV中国功夫.png" group-title="🦁NewTV频道🦁",NewTV中国功夫
 http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV军旅剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV军旅剧场.png" group-title="🦁NewTV频道🦁",NewTV军旅剧场
-http://gslbserv.itv.cmvideo.cn:80/000000001000/7485075951068666323/1.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7485075951068666323&owchid=ystenlive&owsid=7951969344461285239
-#EXTINF:-1 tvg-id="" tvg-name="NewTV军旅剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV军旅剧场.png" group-title="🦁NewTV频道🦁",NewTV军旅剧场
 http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV惊悚悬疑" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV惊悚悬疑.png" group-title="🦁NewTV频道🦁",NewTV惊悚悬疑
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000015/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000015&livemode=1&stbId=3
