@@ -1,5 +1,6 @@
 🇭🇰港澳台🇭🇰,#genre#
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://[2409:8087:2801:22:100::45]/wh7f454c46tw14778710_346869978/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8?icpid=88888888&RTS=1717810839&from=5&hms_devid=1640&online=1717810839&vqe=3$LR•IPV6『线路1』
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8$LR•IPV6『线路2』
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3$LR•IPV6『线路3』
@@ -36,39 +37,29 @@
 凤凰中文,http://60.178.151.58:4022/rtp/233.50.200.191:5140$LR•IPV4『线路34』
 凤凰中文,http://118.112.60.217:5555/udp/239.93.0.162:2192$LR•IPV4『线路35』
 凤凰中文,http://118.112.60.217:5555/udp/239.93.1.9:2192$LR•IPV4『线路36』
-凤凰中文,http://yujukoo.gicp.net:8888/udp/239.93.0.162:2192$LR•IPV4『线路37』
-凤凰中文,http://ayolee.com:5253/udp/239.93.0.162:2192$LR•IPV4『线路38』
-凤凰中文,http://www.yao87.com:4022/udp/239.76.246.7:1234$LR•IPV4『线路39』
-凤凰中文,http://yujukoo.gicp.net:8888/udp/239.93.0.162:2192$LR•IPV4『线路40』
-凤凰中文,http://ayolee.com:5253/udp/239.93.1.9:2192$LR•IPV4『线路41』
-凤凰中文,http://yujukoo.gicp.net:8888/udp/239.93.0.162:2192$LR•IPV4『线路42』
-凤凰中文,http://yujukoo.gicp.net:8888/udp/239.93.0.162:2192$LR•IPV4『线路43』
-凤凰中文,http://yujukoo.gicp.net:8888/udp/239.93.0.162:2192$LR•IPV4『线路44』
-凤凰中文,http://ayolee.com:5253/udp/239.93.1.9:2192$LR•IPV4『线路45』
-凤凰中文,http://103.95.24.37:880/fhws.m3u8$LR•IPV4『线路46』
-凤凰中文,http://182.138.179.81:888/udp/239.93.0.162:2192
-凤凰中文,http://103.95.24.37:880/fhws.m3u8
-凤凰中文,http://2918ce.netsite.cc/proxy/1846789161/1846789161.m3u8
-凤凰中文,http://171.223.215.229:4000/udp/239.93.0.162:2192
-凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
-凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文,http://183.155.163.46:8888/udp/233.50.200.42:5140
+凤凰中文,http://103.95.24.37:880/fhws.m3u8$LR•IPV4『线路37』
 凤凰中文,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
-凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://183.155.163.46:8888/udp/233.50.200.42:5140
 凤凰中文,http://58.216.99.148:80/live2.rxip.sc96655.com/live/test1_4000.m3u8
-凤凰中文,http://56528d.netsite.cc/proxy/1846789161/1846789161.m3u8
+凤凰中文,http://171.223.215.229:4000/udp/239.93.0.162:2192
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+凤凰中文,http://103.95.24.37:880/fhws.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
+凤凰中文,http://2edddd.netsite.cc/proxy/1846789161/1846789161.m3u8
+凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://2918ce.netsite.cc/proxy/1846789161/1846789161.m3u8
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰中文,https://tv.iill.top/jd/fhzw
-凤凰中文,http://2edddd.netsite.cc/proxy/1846789161/1846789161.m3u8
+凤凰中文,http://597ca2.netsite.cc/proxy/1846789161/1846789161.m3u8
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰中文,http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012
 凤凰中文,http://113.64.145.195:8081/hls/37/index.m3u8
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://[2409:8087:2801:20:100::50]/wh7f454c46tw54228331_-952106546/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8?icpid=88888888&RTS=1717810878&from=5&hms_devid=374&online=1717810878&vqe=3$LR•IPV6『线路1』
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8$LR•IPV6『线路2』
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3$LR•IPV6『线路3』
@@ -90,24 +81,24 @@
 凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?$LR•IPV4『线路19』
 凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv$LR•IPV4『线路20』
 凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路21』
-凤凰资讯,http://171.108.239.79:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路22』
-凤凰资讯,http://146.56.153.245:20121/bysid/257$LR•IPV4『线路23』
-凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc$LR•IPV4『线路24』
-凤凰资讯,http://hikvision.city:880/fhzx.m3u8$LR•IPV4『线路25』
-凤凰资讯,http://118.254.201.216:8888/udp/239.76.253.134:9000$LR•IPV4『线路26』
-凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8$LR•IPV4『线路27』
-凤凰资讯,http://118.249.23.89:9999/udp/239.76.246.135:1234$LR•IPV4『线路28』
-凤凰资讯,http://118.249.23.89:9999/udp/239.76.253.134:9000$LR•IPV4『线路29』
-凤凰资讯,http://www.terrykang.cn:5678/sxg.php?id=test2_4000$LR•IPV4『线路30』
-凤凰资讯,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8$LR•IPV4『线路31』
-凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8$LR•IPV4『线路32』
-凤凰资讯,http://r.jdshipin.com/0Rp07$LR•IPV4『线路33』
-凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8$LR•IPV4『线路34』
-凤凰资讯,http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e$LR•IPV4『线路35』
-凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8$LR•IPV4『线路36』
-凤凰资讯,p3p://108.181.32.169:14438/641022be000e5cc69861ad4f5a025336$LR•IPV4『线路37』
-凤凰资讯,http://13457610200.8866.org:2018/live/凤凰资讯/index.m3u8$LR•IPV4『线路38』
-凤凰资讯,http://171.108.239.80:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路39』
+凤凰资讯,http://171.108.239.80:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路22』
+凤凰资讯,http://171.108.239.79:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路23』
+凤凰资讯,http://146.56.153.245:20121/bysid/257$LR•IPV4『线路24』
+凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc$LR•IPV4『线路25』
+凤凰资讯,http://hikvision.city:880/fhzx.m3u8$LR•IPV4『线路26』
+凤凰资讯,http://118.254.201.216:8888/udp/239.76.253.134:9000$LR•IPV4『线路27』
+凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8$LR•IPV4『线路28』
+凤凰资讯,http://118.249.23.89:9999/udp/239.76.246.135:1234$LR•IPV4『线路29』
+凤凰资讯,http://118.249.23.89:9999/udp/239.76.253.134:9000$LR•IPV4『线路30』
+凤凰资讯,http://www.terrykang.cn:5678/sxg.php?id=test2_4000$LR•IPV4『线路31』
+凤凰资讯,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8$LR•IPV4『线路32』
+凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8$LR•IPV4『线路33』
+凤凰资讯,http://r.jdshipin.com/0Rp07$LR•IPV4『线路34』
+凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8$LR•IPV4『线路35』
+凤凰资讯,http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e$LR•IPV4『线路36』
+凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8$LR•IPV4『线路37』
+凤凰资讯,p3p://108.181.32.169:14438/641022be000e5cc69861ad4f5a025336$LR•IPV4『线路38』
+凤凰资讯,http://13457610200.8866.org:2018/live/凤凰资讯/index.m3u8$LR•IPV4『线路39』
 凤凰资讯,http://125.78.7.194:8848/rtp/239.61.2.183:9086$LR•IPV4『线路40』
 凤凰资讯,http://121.24.99.213:8090/hls/72/index.m3u8$LR•IPV4『线路41』
 凤凰资讯,http://60.178.151.58:4022/rtp/233.50.200.192:5140$LR•IPV4『线路42』
@@ -115,29 +106,21 @@
 凤凰资讯,http://118.112.60.217:5555/udp/239.93.0.118:2191$LR•IPV4『线路44』
 凤凰资讯,http://118.112.60.217:5555/udp/239.93.1.4:2191$LR•IPV4『线路45』
 凤凰资讯,p3p://108.181.20.159:60095/5fffbf860003807cedf4e1016c3c3ed2$LR•IPV4『线路46』
-凤凰资讯,http://www.cdtriot.cn:9999/udp/239.93.0.118:2191$LR•IPV4『线路47』
-凤凰资讯,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8$LR•IPV4『线路48』
-凤凰资讯,http://171.108.239.95:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路49』
-凤凰资讯,http://www.yao87.com:4022/udp/239.76.246.135:1234$LR•IPV4『线路50』
-凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191$LR•IPV4『线路51』
-凤凰资讯,http://146.56.153.245:20121/bysid/257$LR•IPV4『线路52』
-凤凰资讯,http://ayolee.com:5253/udp/239.93.1.4:2191$LR•IPV4『线路53』
-凤凰资讯,http://yujukoo.gicp.net:8888/udp/239.93.0.118:2191$LR•IPV4『线路54』
-凤凰资讯,http://ayolee.com:5253/udp/239.93.1.4:2191$LR•IPV4『线路55』
-凤凰资讯,http://wouu.net:9977/udp/239.93.1.4:2191$LR•IPV4『线路56』
-凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191$LR•IPV4『线路57』
-凤凰资讯,http://ayolee.com:5253/udp/239.93.1.4:2191$LR•IPV4『线路58』
-凤凰资讯,http://103.95.24.37:880/fhzx.m3u8$LR•IPV4『线路59』
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
+凤凰资讯,http://171.108.239.98:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路47』
+凤凰资讯,http://171.108.239.99:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路48』
+凤凰资讯,http://www.cdtriot.cn:9999/udp/239.93.0.118:2191$LR•IPV4『线路49』
+凤凰资讯,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8$LR•IPV4『线路50』
+凤凰资讯,http://171.108.239.95:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路51』
+凤凰资讯,http://103.95.24.37:880/fhzx.m3u8$LR•IPV4『线路52』
+凤凰资讯,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
 凤凰资讯,http://58.216.99.148:80/live2.rxip.sc96655.com/live/test2_4000.m3u8
-凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
+凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
 凤凰资讯,http://118.254.201.216:8888/udp/239.76.253.134:9000
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
 凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
 凤凰资讯,http://r.jdshipin.com/0Rp07
@@ -171,17 +154,8 @@
 凤凰香港,http://171.108.239.80:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路16』
 凤凰香港,p3p://108.181.20.159:60095/5fe0b82c000cac9774c17f262e43314d$LR•IPV4『线路17』
 凤凰香港,http://171.108.239.95:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路18』
-凤凰香港,http://171.108.239.80:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路19』
-凤凰香港,http://171.108.239.80:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路20』
-凤凰香港,http://171.108.239.80:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路21』
-凤凰香港,http://171.108.239.80:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路22』
-凤凰香港,http://171.108.239.80:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路23』
-凤凰香港,http://r.jdshipin.com/yDoTN$LR•IPV4『线路24』
-凤凰香港,http://r.jdshipin.com/yDoTN$LR•IPV4『线路25』
-凤凰香港,http://r.jdshipin.com/yDoTN$LR•IPV4『线路26』
-凤凰香港,http://r.jdshipin.com/yDoTN$LR•IPV4『线路27』
-凤凰香港,http://zb.688768.xyz/jiudian/jddb.php?member=liubwdefd34&playurl=http://120.84.96.42:808/hls/81/index.m3u8
 凤凰香港,http://103.95.24.37:880/fhxgt.m3u8
+凤凰香港,http://zb.688768.xyz/jiudian/jddb.php?member=liubwdefd34&playurl=http://120.84.96.42:808/hls/81/index.m3u8
 凤凰香港,http://113.64.145.91:8081/hls/38/index.m3u8
 凤凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
 凤凰香港,http://113.117.74.12:8081/hls/38/index.m3u8
@@ -209,25 +183,16 @@
 翡翠台,http://113.117.74.12:8081/hls/25/index.m3u8$LR•IPV4『线路10』
 翡翠台,http://66.181.39.224/ml.php?id=jade_twn$LR•IPV4『线路11』
 翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c$LR•IPV4『线路12』
-翡翠台,http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8$LR•IPV4『线路13』
-翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts$LR•IPV4『线路14』
-翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8$LR•IPV4『线路15』
-翡翠台,http://171.38.24.191:8181/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路16』
-翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20124J2$LR•IPV4『线路17』
-翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20127$LR•IPV4『线路18』
-翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20127$LR•IPV4『线路19』
-翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=30025$LR•IPV4『线路20』
-翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=30025$LR•IPV4『线路21』
-翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20124J2$LR•IPV4『线路22』
-翡翠台,http://fm1077.serv00.net/Smart.php?id=jade_twn$LR•IPV4『线路23』
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20127
-翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=30025
-翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
-翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20124
+翡翠台,http://fm1077.serv00.net/Smart.php?id=jade_twn$LR•IPV4『线路13』
 翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=30025
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20124
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20124J2,http://107.167.12.58:27347/livehttpplay?channel_id=30030
+翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20127
 翡翠台,http://162.244.81.145:3333/live/telebostonrtb/playlist.m3u8
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct720
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct406
@@ -245,20 +210,11 @@
 明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=20125$LR•IPV4『线路5』
 明珠台,http://113.117.74.12:8081/hls/26/index.m3u8$LR•IPV4『线路6』
 明珠台,http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad$LR•IPV4『线路7』
-明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8$LR•IPV4『线路8』
-明珠台,http://nz171l122.bb60246.ctm.net:8892/bysid/2.m3u8$LR•IPV4『线路9』
-明珠台,http://r.jdshipin.com/ZQ4kN$LR•IPV4『线路10』
-明珠台,http://r.jdshipin.com/ZQ4kN$LR•IPV4『线路11』
-明珠台,http://r.jdshipin.com/ZQ4kN$LR•IPV4『线路12』
-明珠台,http://r.jdshipin.com/ZQ4kN$LR•IPV4『线路13』
-明珠台,http://r.jdshipin.com/ZQ4kN$LR•IPV4『线路14』
-明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=30026$LR•IPV4『线路15』
-明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=20125$LR•IPV4『线路16』
-明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=20125$LR•IPV4『线路17』
+明珠台,http://bziyunshao.synology.me:8890/bysid/2$LR•IPV4『线路8』
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=20125
 明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=30026
 明珠台,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
-明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=20125
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 明珠台,https://pi.0472.org/tv/mzt.php?auth=231110
@@ -278,11 +234,11 @@ J2,http://r.jdshipin.com/Nr5jq
 J2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
 J2,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthjyfiplhdftujfbvdimhdjnbjsjbcvxjfjsehbvbjtvbd2.flv
 J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
-耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlivepc/playlist.m3u8?wowzasessionid=64000?zgangd
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8?$官源
@@ -309,15 +265,15 @@ J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 中视新闻,http://livetv.skycf.eu.org/live.m3u8?c=2
 中视新闻,mitv://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
 中视新闻,P2p://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
-台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-台视新闻,http://extraott.com:80/live/7921751389/6097373662/5501.m3u8
-台视新闻,http://extraott.com:80/live/7921751389/6097373662/473537.m3u8
-台视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台视新闻,http://tv.redrainl.site:9500/live.m3u8?c=11
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+台视新闻,http://tv.redrainl.site:9500/live.m3u8?c=11
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+台视新闻,http://extraott.com:80/live/7921751389/6097373662/473537.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视新闻,http://extraott.com:80/live/7921751389/6097373662/5501.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,https://bsex.serv00.net/Smart.php?id=ttvnews_twn
 台视新闻,http://198.16.100.90:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
@@ -325,11 +281,11 @@ J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 台视新闻,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv051
 台视新闻,mitv://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
 台视新闻,P2p://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
-民视新闻,http://extraott.com:80/live/7921751389/6097373662/5529.m3u8
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民视新闻,http://tv.redrainl.site:9500/live.m3u8?c=01
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+民视新闻,http://tv.redrainl.site:9500/live.m3u8?c=01
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民视新闻,http://extraott.com:80/live/7921751389/6097373662/5529.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 民视新闻,http://livetv.skycf.eu.org/live.m3u8?c=11
@@ -356,8 +312,9 @@ TVBS新闻,https://bsex.serv00.net/Smart.php?id=tvbs_n$LR•IPV4『线路4』
 TVBS新闻,mitv://generationnexxxt.com:19806/65fa6dc600095b662a8020fe14c65804#mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60$LR•IPV4『线路5』
 TVBS新闻,P2p://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60$LR•IPV4『线路6』
 TVBS新闻,p3p://108.181.20.159:60095/621858e3000e70ad1217c0700d576ad0$LR•IPV4『线路7』
-TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS新闻,http://194.87.101.118/live.m3u8?c=5
 TVBS新闻,http://extraott.com:80/live/7921751389/6097373662/5499.m3u8
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv
 TVBS新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivejojwhjxojhjjjlfhjljsjcnxjfvbhjdjwjfjjdsswvtvbsxw.flv
 TVBS新闻,https://fsv4.yj011.net/sat/tv551.flv
