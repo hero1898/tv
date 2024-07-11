@@ -4,6 +4,7 @@ NewTV超级电视剧,http://[2409:8087:1a0a:df::402a]/wh7f454c46tw1840265920_102
 NewTV东北热剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 NewTV海外剧场,http://[2409:8087:1a0b:df::4005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 NewTV中国功夫,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+NewTV军旅剧场,http://gslbserv.itv.cmvideo.cn:80/000000001000/7485075951068666323/1.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=7485075951068666323&owchid=ystenlive&owsid=7951969344461285239
 NewTV军旅剧场,http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 NewTV惊悚悬疑,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$LR•IPV6『线路1』
 NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$LR•IPV4『线路2』
@@ -13,7 +14,6 @@ NewTV精品纪录,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLT
 NewTV家庭剧场,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 NewTV精品大剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 NewTV军事评论,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-NewTV明星大片,http://gslbserv.itv.cmvideo.cn:80/000000001000/5595720619887440144/1.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5595720619887440144&owchid=ystenlive&owsid=7951969344461437044
 NewTV明星大片,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 NewTV欢乐剧场,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 NewTV精品萌宠,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
