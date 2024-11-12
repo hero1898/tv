@@ -19,6 +19,8 @@ http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0a:df::4016]/wh7f454c46tw2070901039_-123359714/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV军旅剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV军旅剧场.png" group-title="🦁NewTV频道🦁",NewTV军旅剧场
 http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NewTV军旅剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV军旅剧场.png" group-title="🦁NewTV频道🦁",NewTV军旅剧场
+http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000107
 #EXTINF:-1 tvg-id="" tvg-name="NewTV惊悚悬疑" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV惊悚悬疑.png" group-title="🦁NewTV频道🦁",NewTV惊悚悬疑
 http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3$LR•IPV6『线路1』
 #EXTINF:-1 tvg-id="" tvg-name="NewTV惊悚悬疑" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV惊悚悬疑.png" group-title="🦁NewTV频道🦁",NewTV惊悚悬疑
@@ -41,6 +43,8 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000109/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000349
 #EXTINF:-1 tvg-id="" tvg-name="NewTV家庭剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV家庭剧场.png" group-title="🦁NewTV频道🦁",NewTV家庭剧场
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NewTV家庭剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV家庭剧场.png" group-title="🦁NewTV频道🦁",NewTV家庭剧场
+http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000108
 #EXTINF:-1 tvg-id="" tvg-name="NewTV精品大剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV精品大剧.png" group-title="🦁NewTV频道🦁",NewTV精品大剧
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV精品大剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV精品大剧.png" group-title="🦁NewTV频道🦁",NewTV精品大剧
@@ -71,5 +75,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a0a:df::402a]/wh7f454c46tw1624655335_1622057483/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV精品体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV精品体育.png" group-title="🦁NewTV频道🦁",NewTV精品体育
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NewTV精品体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV精品体育.png" group-title="🦁NewTV频道🦁",NewTV精品体育
+http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000102
 #EXTINF:-1 tvg-id="" tvg-name="NewTV超级体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV超级体育.png" group-title="🦁NewTV频道🦁",NewTV超级体育
 http://[2409:8087:1a0a:df::4016]/wh7f454c46tw2798497282_1170252542/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8?icpid=88888888&RTS=1713110634&from=4&hms_devid=992&online=1713110634&vqe=3
