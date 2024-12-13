@@ -10,7 +10,7 @@ http://[2409:8087:74d9:21::6]:80/270000001128/9900000115/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV中国功夫" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV中国功夫.png" group-title="🦁NewTV频道🦁",NewTV中国功夫
 http://[2409:8087:1a0a:df::4016]/wh7f454c46tw2070901039_-123359714/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV军旅剧场" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV军旅剧场.png" group-title="🦁NewTV频道🦁",NewTV军旅剧场
-http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000107
+http://[2409:8087:74d9:21::6]/270000001128/index.m3u8?cmcc_cid=9900000107
 #EXTINF:-1 tvg-id="" tvg-name="NewTV惊悚悬疑" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV惊悚悬疑.png" group-title="🦁NewTV频道🦁",NewTV惊悚悬疑
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000113/index.m3u8$LR•IPV6『线路1』
 #EXTINF:-1 tvg-id="" tvg-name="NewTV惊悚悬疑" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV惊悚悬疑.png" group-title="🦁NewTV频道🦁",NewTV惊悚悬疑
@@ -18,11 +18,9 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000024282/1.m3u8?chan
 #EXTINF:-1 tvg-id="" tvg-name="NewTV惊悚悬疑" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV惊悚悬疑.png" group-title="🦁NewTV频道🦁",NewTV惊悚悬疑
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010077/1.m3u8$LR•IPV6『线路3』
 #EXTINF:-1 tvg-id="" tvg-name="NewTV惊悚悬疑" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV惊悚悬疑.png" group-title="🦁NewTV频道🦁",NewTV惊悚悬疑
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010077/1.m3u8$LR•IPV6『线路4』
+http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3$LR•IPV6『线路4』
 #EXTINF:-1 tvg-id="" tvg-name="NewTV惊悚悬疑" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV惊悚悬疑.png" group-title="🦁NewTV频道🦁",NewTV惊悚悬疑
-http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3$LR•IPV6『线路5』
-#EXTINF:-1 tvg-id="" tvg-name="NewTV惊悚悬疑" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV惊悚悬疑.png" group-title="🦁NewTV频道🦁",NewTV惊悚悬疑
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000113/index.m3u8$LR•IPV6『线路6』
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000113/index.m3u8$LR•IPV6『线路5』
 #EXTINF:-1 tvg-id="" tvg-name="NewTV惊悚悬疑" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV惊悚悬疑.png" group-title="🦁NewTV频道🦁",NewTV惊悚悬疑
 http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV潮妈辣婆" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV潮妈辣婆.png" group-title="🦁NewTV频道🦁",NewTV潮妈辣婆
@@ -46,6 +44,6 @@ http://[2409:8087:1a0a:df::4016]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="" tvg-name="NewTV金牌综艺" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV金牌综艺.png" group-title="🦁NewTV频道🦁",NewTV金牌综艺
 http://[2409:8087:1a0a:df::402a]/wh7f454c46tw1624655335_1622057483/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV精品体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV精品体育.png" group-title="🦁NewTV频道🦁",NewTV精品体育
-http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000102
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV超级体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV超级体育.png" group-title="🦁NewTV频道🦁",NewTV超级体育
 http://[2409:8087:1a0a:df::4016]/wh7f454c46tw2798497282_1170252542/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8?icpid=88888888&RTS=1713110634&from=4&hms_devid=992&online=1713110634&vqe=3
