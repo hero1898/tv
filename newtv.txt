@@ -12,7 +12,7 @@ NewTV惊悚悬疑,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000
 NewTV惊悚悬疑,http://[2409:8087:74d9:21::6]:80/270000001128/9900000113/index.m3u8$LR•IPV6『线路5』
 NewTV惊悚悬疑,http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 NewTV潮妈辣婆,http://[2409:8087:1a0a:df::402a]:80/wh7f454c46tw1933284823_1929264018/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-NewTV精品纪录,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000109/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000349
+NewTV精品纪录,http://[2409:8087:74d9:21::6]:80/270000001128/9900000109/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000349
 NewTV家庭剧场,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000108
 NewTV精品大剧,http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 NewTV军事评论,http://[2409:8087:1a0a:df::4016]/wh7f454c46tw1692016868_-1516333284/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
