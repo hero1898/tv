@@ -24,6 +24,10 @@ http://[2409:8087:74d9:21::6]/270000001128/9900000113/index.m3u8$LR•IPV6『线
 #EXTINF:-1 tvg-id="" tvg-name="NewTV惊悚悬疑" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV惊悚悬疑.png" group-title="🦁NewTV频道🦁",NewTV惊悚悬疑
 http://[2409:8087:5e08:24::17]:6610/000000001000/1000000004000024282/index.m3u8?channel-id=bestzb&Contentid=1000000004000024282&livemode=1&stbId=3$LR•IPV6『线路7』
 #EXTINF:-1 tvg-id="" tvg-name="NewTV惊悚悬疑" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV惊悚悬疑.png" group-title="🦁NewTV频道🦁",NewTV惊悚悬疑
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000113/index.m3u8$LR•IPV6『线路8』
+#EXTINF:-1 tvg-id="" tvg-name="NewTV惊悚悬疑" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV惊悚悬疑.png" group-title="🦁NewTV频道🦁",NewTV惊悚悬疑
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$LR•IPV4『线路9』
+#EXTINF:-1 tvg-id="" tvg-name="NewTV惊悚悬疑" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV惊悚悬疑.png" group-title="🦁NewTV频道🦁",NewTV惊悚悬疑
 http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV潮妈辣婆" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/NewTV潮妈辣婆.png" group-title="🦁NewTV频道🦁",NewTV潮妈辣婆
 http://[2409:8087:1a0a:df::402a]:80/wh7f454c46tw1933284823_1929264018/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
