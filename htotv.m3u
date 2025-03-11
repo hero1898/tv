@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
+http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
 http://www.terrykang.cn:5678/sxg.php?id=test1_4000$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$LR•IPV4『线路2』
@@ -186,9 +188,11 @@ http://wouu.net:9977/udp/239.93.1.9:2192
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
 http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
-p3p://108.181.32.169:33947/6410229e000655dd98612e41401e3e7d
+P2p://starvod.xyz:19806/5299589f7105498cb0ba0e2c6355de74
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
-p3p://108.181.32.169:33947/641fd7b400080236d5bc536f5d82159c
+p3p://108.181.32.169:14311/6410229e000655dd98612e41401e3e7d
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
+p3p://108.181.32.169:14311/641fd7b400080236d5bc536f5d82159c
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
 http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
@@ -206,15 +210,19 @@ http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
 https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
-http://120.55.49.231:3095/rtp/233.50.200.191:5140
+http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
 http://115.149.139.141:10000/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
+http://120.55.49.231:3095/rtp/233.50.200.191:5140
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
 https://stream1.freetv.fun/feng-huang-zhong-wen-15.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
 https://stream1.freetv.fun/feng-huang-zhong-wen-16.ctv
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
 https://stream1.freetv.fun/feng-huang-zhong-wen-18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
 https://stream1.freetv.fun/feng-huang-zhong-wen-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
@@ -277,6 +285,8 @@ http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012
 http://113.64.145.195:8081/hls/37/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="🇭🇰港澳台🇭🇰",凤凰资讯
+http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="🇭🇰港澳台🇭🇰",凤凰资讯
 http://www.terrykang.cn:5678/sxg.php?id=test2_4000$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="🇭🇰港澳台🇭🇰",凤凰资讯
@@ -496,9 +506,9 @@ http://wouu.net:9977/udp/239.93.1.4:2191
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="🇭🇰港澳台🇭🇰",凤凰资讯
 https://haoyunlai.serv00.net/Smartv-1.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-p3p://108.181.32.169:33947/67619e22000500d4af4b15a9277c7c29
+p3p://108.181.32.169:14311/67619e22000500d4af4b15a9277c7c29
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-p3p://108.181.32.169:33947/641022be000e5cc69861ad4f5a025336
+p3p://108.181.32.169:14311/641022be000e5cc69861ad4f5a025336
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="🇭🇰港澳台🇭🇰",凤凰资讯
 http://ttkx.cc:1380/653哈哈/fh.php?id=fhzx
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="🇭🇰港澳台🇭🇰",凤凰资讯
@@ -672,11 +682,13 @@ http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰香港.png" group-title="🇭🇰港澳台🇭🇰",凤凰香港
 http://108.181.20.197/livehttpplay?channel_id=30016
 #EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰香港.png" group-title="🇭🇰港澳台🇭🇰",凤凰香港
+P2p://starvod.xyz:19806/c4b31f19f7444cb9b283faa6e9fc1733
+#EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰香港.png" group-title="🇭🇰港澳台🇭🇰",凤凰香港
 https://haoyunlai.serv00.net/Smartv-1.php?id=hkphoenix_twn
 #EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰香港.png" group-title="🇭🇰港澳台🇭🇰",凤凰香港
-p3p://108.181.32.169:33947/67641d8000038fa1b90c9c78133d0607
+p3p://108.181.32.169:14311/67641d8000038fa1b90c9c78133d0607
 #EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰香港.png" group-title="🇭🇰港澳台🇭🇰",凤凰香港
-p3p://108.181.32.169:33947/641022da0005d3069862188000a64525
+p3p://108.181.32.169:14311/641022da0005d3069862188000a64525
 #EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰香港.png" group-title="🇭🇰港澳台🇭🇰",凤凰香港
 http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv
 #EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰香港.png" group-title="🇭🇰港澳台🇭🇰",凤凰香港
@@ -890,6 +902,8 @@ http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extensi
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/翡翠台.png" group-title="🇭🇰港澳台🇭🇰",翡翠台
 https://cdn5.1678520.xyz/live/live2.1.php?id=j1
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/翡翠台.png" group-title="🇭🇰港澳台🇭🇰",翡翠台
+http://v2hcdn.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/翡翠台.png" group-title="🇭🇰港澳台🇭🇰",翡翠台
 https://stream1.freetv.fun/fei-cui-6.ctv
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/翡翠台.png" group-title="🇭🇰港澳台🇭🇰",翡翠台
 https://stream1.freetv.fun/fei-cui-8.m3u8
@@ -976,7 +990,13 @@ https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天新闻.png" group-title="🇭🇰港澳台🇭🇰",中天新闻
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天新闻.png" group-title="🇭🇰港澳台🇭🇰",中天新闻
-p3p://108.181.32.169:33947/675ec8cf000def51a43a021f0e7931f9
+P2p://starvod.xyz:19806/dcde303976b6413dbfbfc63da5d3439d
+#EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天新闻.png" group-title="🇭🇰港澳台🇭🇰",中天新闻
+P2p://starvod.xyz:19806/c30dc54a6f874c99bd67f9ca7935c63f
+#EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天新闻.png" group-title="🇭🇰港澳台🇭🇰",中天新闻
+http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天新闻.png" group-title="🇭🇰港澳台🇭🇰",中天新闻
+p3p://108.181.32.169:14311/675ec8cf000def51a43a021f0e7931f9
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天新闻.png" group-title="🇭🇰港澳台🇭🇰",中天新闻
 http://122.117.109.23:8595/http/61.67.128.137:8081/hls/78/80/ch63max.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天新闻.png" group-title="🇭🇰港澳台🇭🇰",中天新闻
@@ -1012,7 +1032,9 @@ P2p://generationnexxxt.com:19806/e92e93fd67794e92acdc0d4005f0781a
 #EXTINF:-1 tvg-id="" tvg-name="中视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视新闻.png" group-title="🇭🇰港澳台🇭🇰",中视新闻
 https://tv.iill.top/litv/4gtv-4gtv074
 #EXTINF:-1 tvg-id="" tvg-name="中视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视新闻.png" group-title="🇭🇰港澳台🇭🇰",中视新闻
-p3p://108.181.32.169:33947/642d016e000643ab0926e0907da252ca
+P2p://starvod.xyz:19806/60901e8b36254ffea76905ae140ec8e4
+#EXTINF:-1 tvg-id="" tvg-name="中视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视新闻.png" group-title="🇭🇰港澳台🇭🇰",中视新闻
+p3p://108.181.32.169:14311/642d016e000643ab0926e0907da252ca
 #EXTINF:-1 tvg-id="" tvg-name="中视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视新闻.png" group-title="🇭🇰港澳台🇭🇰",中视新闻
 http://ku9.fr.to/smt.php?id=zhongshinews_twn
 #EXTINF:-1 tvg-id="" tvg-name="中视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视新闻.png" group-title="🇭🇰港澳台🇭🇰",中视新闻
@@ -1043,6 +1065,8 @@ https://live.wcetv.com/hls/master-ttvnews.m3u8
 http://222.128.55.152:9080/live/ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="台视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视新闻.png" group-title="🇭🇰港澳台🇭🇰",台视新闻
 https://tv.iill.top/litv/4gtv-4gtv051
+#EXTINF:-1 tvg-id="" tvg-name="台视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视新闻.png" group-title="🇭🇰港澳台🇭🇰",台视新闻
+P2p://starvod.xyz:19806/2e9ca06c53c84603ac0230e459ebafd1
 #EXTINF:-1 tvg-id="" tvg-name="台视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视新闻.png" group-title="🇭🇰港澳台🇭🇰",台视新闻
 https://stream1.freetv.fun/tai-shi-xin-wen-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="台视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视新闻.png" group-title="🇭🇰港澳台🇭🇰",台视新闻
@@ -1112,9 +1136,11 @@ http://38.64.72.148:80/hls/modn/list/4012/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视新闻.png" group-title="🇭🇰港澳台🇭🇰",民视新闻
 https://tv.iill.top/litv/litv-ftv13
 #EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视新闻.png" group-title="🇭🇰港澳台🇭🇰",民视新闻
+P2p://starvod.xyz:19806/85724af489c94b319c108b754f4eb381
+#EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视新闻.png" group-title="🇭🇰港澳台🇭🇰",民视新闻
 https://haoyunlai.serv00.net/Smartv-1.php?id=ftvnew_taiwan
 #EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视新闻.png" group-title="🇭🇰港澳台🇭🇰",民视新闻
-p3p://108.181.32.169:33947/64c859e10007934267f487ac0fa618e0
+p3p://108.181.32.169:14311/64c859e10007934267f487ac0fa618e0
 #EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视新闻.png" group-title="🇭🇰港澳台🇭🇰",民视新闻
 https://stream1.freetv.fun/min-shi-xin-wen-18.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视新闻.png" group-title="🇭🇰港澳台🇭🇰",民视新闻
@@ -1160,9 +1186,13 @@ https://stream1.freetv.fun/dong-sen-xin-wen-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="🇭🇰港澳台🇭🇰",东森新闻
 https://tv.iill.top/litv/4gtv-4gtv152
 #EXTINF:-1 tvg-id="" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="🇭🇰港澳台🇭🇰",东森新闻
+P2p://starvod.xyz:19806/fbc81780a9114e3da4cb1d4123844a5e
+#EXTINF:-1 tvg-id="" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="🇭🇰港澳台🇭🇰",东森新闻
+P2p://starvod.xyz:19806/e6dd7810733243209fa799162ad0feed
+#EXTINF:-1 tvg-id="" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="🇭🇰港澳台🇭🇰",东森新闻
 https://haoyunlai.serv00.net/Smartv-1.php?id=ettvnews
 #EXTINF:-1 tvg-id="" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="🇭🇰港澳台🇭🇰",东森新闻
-p3p://108.181.32.169:33947/64251f9700046520ea5ce8b85b6c11da
+p3p://108.181.32.169:14311/64251f9700046520ea5ce8b85b6c11da
 #EXTINF:-1 tvg-id="" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="🇭🇰港澳台🇭🇰",东森新闻
 http://live4play.uk/livehttpplay?channel_id=20082
 #EXTINF:-1 tvg-id="" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="🇭🇰港澳台🇭🇰",东森新闻
@@ -1242,9 +1272,11 @@ https://tv.iill.top/litv/litv-longturn14
 #EXTINF:-1 tvg-id="" tvg-name="寰宇新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/寰宇新闻.png" group-title="🇭🇰港澳台🇭🇰",寰宇新闻
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="寰宇新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/寰宇新闻.png" group-title="🇭🇰港澳台🇭🇰",寰宇新闻
+P2p://starvod.xyz:19806/6d0911b11be041bbba3bf911b1bb6167
+#EXTINF:-1 tvg-id="" tvg-name="寰宇新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/寰宇新闻.png" group-title="🇭🇰港澳台🇭🇰",寰宇新闻
 https://haoyunlai.serv00.net/Smartv-1.php?id=huanyuxinwen_twn
 #EXTINF:-1 tvg-id="" tvg-name="寰宇新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/寰宇新闻.png" group-title="🇭🇰港澳台🇭🇰",寰宇新闻
-p3p://108.181.32.169:33947/64295eb60008744efaf37ae07d17520b
+p3p://108.181.32.169:14311/64295eb60008744efaf37ae07d17520b
 #EXTINF:-1 tvg-id="" tvg-name="寰宇新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/寰宇新闻.png" group-title="🇭🇰港澳台🇭🇰",寰宇新闻
 http://122.117.109.23:8570/http/61.67.128.137:8088/hls/76/818/ch62.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="寰宇新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/寰宇新闻.png" group-title="🇭🇰港澳台🇭🇰",寰宇新闻
@@ -1292,9 +1324,11 @@ http://108.181.20.197/livehttpplay?channel_id=20034
 #EXTINF:-1 tvg-id="" tvg-name="非凡新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/非凡新闻.png" group-title="🇭🇰港澳台🇭🇰",非凡新闻
 https://tv.iill.top/litv/4gtv-4gtv010
 #EXTINF:-1 tvg-id="" tvg-name="非凡新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/非凡新闻.png" group-title="🇭🇰港澳台🇭🇰",非凡新闻
+P2p://starvod.xyz:19806/843f09b6643145828c29cb2e3dff9dac
+#EXTINF:-1 tvg-id="" tvg-name="非凡新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/非凡新闻.png" group-title="🇭🇰港澳台🇭🇰",非凡新闻
 https://haoyunlai.serv00.net/Smartv-1.php?id=feifannews_twn
 #EXTINF:-1 tvg-id="" tvg-name="非凡新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/非凡新闻.png" group-title="🇭🇰港澳台🇭🇰",非凡新闻
-p3p://108.181.32.169:33947/64258e8600060f7eec0e3ebd6c49020e
+p3p://108.181.32.169:14311/64258e8600060f7eec0e3ebd6c49020e
 #EXTINF:-1 tvg-id="" tvg-name="非凡新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/非凡新闻.png" group-title="🇭🇰港澳台🇭🇰",非凡新闻
 http://live4play.uk/livehttpplay?channel_id=20034
 #EXTINF:-1 tvg-id="" tvg-name="非凡新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/非凡新闻.png" group-title="🇭🇰港澳台🇭🇰",非凡新闻
@@ -1314,7 +1348,7 @@ http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中天亚洲" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天亚洲.png" group-title="🇭🇰港澳台🇭🇰",中天亚洲
 https://tv.iill.top/litv/4gtv-4gtv109
 #EXTINF:-1 tvg-id="" tvg-name="中天亚洲" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天亚洲.png" group-title="🇭🇰港澳台🇭🇰",中天亚洲
-p3p://108.181.32.169:33947/64254f7e000dfed1eb1809855c5735ce
+p3p://108.181.32.169:14311/64254f7e000dfed1eb1809855c5735ce
 #EXTINF:-1 tvg-id="" tvg-name="中天亚洲" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天亚洲.png" group-title="🇭🇰港澳台🇭🇰",中天亚洲
 https://aktv.top/AKTV/live/aktv/null12/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中天亚洲" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天亚洲.png" group-title="🇭🇰港澳台🇭🇰",中天亚洲
@@ -1329,6 +1363,8 @@ mitv://generationnexxxt.com:19806/cb5ccc31dac94210bdc7507c320fb32e
 P2p://generationnexxxt.com:19806/cb5ccc31dac94210bdc7507c320fb32e
 #EXTINF:-1 tvg-id="" tvg-name="民视台湾" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视台湾.png" group-title="🇭🇰港澳台🇭🇰",民视台湾
 https://tv.iill.top/litv/4gtv-4gtv001
+#EXTINF:-1 tvg-id="" tvg-name="民视台湾" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视台湾.png" group-title="🇭🇰港澳台🇭🇰",民视台湾
+P2p://starvod.xyz:19806/7c721e7c3bf44c21bf3b0b2d478fa7a4
 #EXTINF:-1 tvg-id="" tvg-name="民视台湾" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视台湾.png" group-title="🇭🇰港澳台🇭🇰",民视台湾
 https://stream1.freetv.fun/min-shi-tai-wan-6.ctv
 #EXTINF:-1 tvg-id="" tvg-name="民视台湾" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视台湾.png" group-title="🇭🇰港澳台🇭🇰",民视台湾
@@ -1426,13 +1462,15 @@ P2p://generationnexxxt.com:19806/177390ae66634acca9be01242a769660
 #EXTINF:-1 tvg-id="" tvg-name="民视综艺" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视综艺.png" group-title="🇭🇰港澳台🇭🇰",民视综艺
 https://tv.iill.top/litv/4gtv-4gtv004
 #EXTINF:-1 tvg-id="" tvg-name="民视综艺" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视综艺.png" group-title="🇭🇰港澳台🇭🇰",民视综艺
-p3p://108.181.32.169:33947/642d012300040bf70925bb06321b0b87
+p3p://108.181.32.169:14311/642d012300040bf70925bb06321b0b87
 #EXTINF:-1 tvg-id="" tvg-name="民视综艺" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视综艺.png" group-title="🇭🇰港澳台🇭🇰",民视综艺
 https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv004
 #EXTINF:-1 tvg-id="" tvg-name="民视第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视第一.png" group-title="🇭🇰港澳台🇭🇰",民视第一
 https://tv.iill.top/litv/4gtv-4gtv003
 #EXTINF:-1 tvg-id="" tvg-name="民视第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视第一.png" group-title="🇭🇰港澳台🇭🇰",民视第一
-p3p://108.181.32.169:33947/642520e900023cc4ea621083588c7092
+P2p://starvod.xyz:19806/e5908caead5a41ab896bc811a411db5d
+#EXTINF:-1 tvg-id="" tvg-name="民视第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视第一.png" group-title="🇭🇰港澳台🇭🇰",民视第一
+p3p://108.181.32.169:14311/642520e900023cc4ea621083588c7092
 #EXTINF:-1 tvg-id="" tvg-name="民视第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视第一.png" group-title="🇭🇰港澳台🇭🇰",民视第一
 https://stream1.freetv.fun/min-shi-di-yi-2.ctv
 #EXTINF:-1 tvg-id="" tvg-name="民视第一" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视第一.png" group-title="🇭🇰港澳台🇭🇰",民视第一
@@ -1464,6 +1502,8 @@ P2p://generationnexxxt.com:19806/259c24cb79ce4b5db1fb1e1b894c517e
 #EXTINF:-1 tvg-id="" tvg-name="中视菁采" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视菁采.png" group-title="🇭🇰港澳台🇭🇰",中视菁采
 https://tv.iill.top/litv/4gtv-4gtv064
 #EXTINF:-1 tvg-id="" tvg-name="中视菁采" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视菁采.png" group-title="🇭🇰港澳台🇭🇰",中视菁采
+P2p://starvod.xyz:19806/ab03f4a5d3444f999b245245d9f5db9b
+#EXTINF:-1 tvg-id="" tvg-name="中视菁采" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视菁采.png" group-title="🇭🇰港澳台🇭🇰",中视菁采
 https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv064
 #EXTINF:-1 tvg-id="" tvg-name="中视菁采" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视菁采.png" group-title="🇭🇰港澳台🇭🇰",中视菁采
 mitv://generationnexxxt.com:19806/ae5e01a7bc294327b88f65aa5d38217c
@@ -1476,7 +1516,7 @@ https://4gtv.pendy.us.kg/4gtv.php?id=4gtv-4gtv034
 #EXTINF:-1 tvg-id="" tvg-name="八大精彩" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大精彩.png" group-title="🇭🇰港澳台🇭🇰",八大精彩
 http://108.181.20.197/livehttpplay?channel_id=20052
 #EXTINF:-1 tvg-id="" tvg-name="八大精彩" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大精彩.png" group-title="🇭🇰港澳台🇭🇰",八大精彩
-p3p://108.181.32.169:33947/65435f63000ba94069331ccd6399041b
+p3p://108.181.32.169:14311/65435f63000ba94069331ccd6399041b
 #EXTINF:-1 tvg-id="" tvg-name="八大精彩" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大精彩.png" group-title="🇭🇰港澳台🇭🇰",八大精彩
 http://live4play.uk/livehttpplay?channel_id=20052
 #EXTINF:-1 tvg-id="" tvg-name="八大精彩" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/八大精彩.png" group-title="🇭🇰港澳台🇭🇰",八大精彩
@@ -1562,6 +1602,8 @@ http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="靖天电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天电影.png" group-title="🇭🇰港澳台🇭🇰",靖天电影
 https://tv.iill.top/litv/4gtv-4gtv061
 #EXTINF:-1 tvg-id="" tvg-name="靖天电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天电影.png" group-title="🇭🇰港澳台🇭🇰",靖天电影
+P2p://starvod.xyz:19806/cd47dabb4fd745df9c81cce941540481
+#EXTINF:-1 tvg-id="" tvg-name="靖天电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天电影.png" group-title="🇭🇰港澳台🇭🇰",靖天电影
 https://aktv.top/AKTV/live/aktv/null6/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="靖天电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天电影.png" group-title="🇭🇰港澳台🇭🇰",靖天电影
 https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv061
@@ -1579,6 +1621,8 @@ http://211.72.65.236:8556/.m3u8
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="龙华电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/龙华电影.png" group-title="🇭🇰港澳台🇭🇰",龙华电影
 https://tv.iill.top/litv/litv-longturn03
+#EXTINF:-1 tvg-id="" tvg-name="龙华电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/龙华电影.png" group-title="🇭🇰港澳台🇭🇰",龙华电影
+P2p://starvod.xyz:19806/bb08f432ff684290a154dd0add3b2b9a
 #EXTINF:-1 tvg-id="" tvg-name="龙华电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/龙华电影.png" group-title="🇭🇰港澳台🇭🇰",龙华电影
 https://haoyunlai.serv00.net/Smartv-1.php?id=xingwei_movie
 #EXTINF:-1 tvg-id="" tvg-name="龙华电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/龙华电影.png" group-title="🇭🇰港澳台🇭🇰",龙华电影
@@ -1602,7 +1646,7 @@ P2p://generationnexxxt.com:19806/a0d691053f9b4876ab2b509a62296911
 #EXTINF:-1 tvg-id="" tvg-name="民视影剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视影剧.png" group-title="🇭🇰港澳台🇭🇰",民视影剧
 https://tv.iill.top/litv/litv-ftv09
 #EXTINF:-1 tvg-id="" tvg-name="民视影剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视影剧.png" group-title="🇭🇰港澳台🇭🇰",民视影剧
-p3p://108.181.32.169:33947/6425257c000bd861ea73f1315c0e6e14
+p3p://108.181.32.169:14311/6425257c000bd861ea73f1315c0e6e14
 #EXTINF:-1 tvg-id="" tvg-name="民视影剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视影剧.png" group-title="🇭🇰港澳台🇭🇰",民视影剧
 https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-ftv09
 #EXTINF:-1 tvg-id="" tvg-name="龙华经典" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/龙华经典.png" group-title="🇭🇰港澳台🇭🇰",龙华经典
@@ -1613,6 +1657,8 @@ p3p://167.114.175.6:55331/6223b9d8000ef67e3e8a2073190e36d5
 https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn21
 #EXTINF:-1 tvg-id="" tvg-name="中视经典" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视经典.png" group-title="🇭🇰港澳台🇭🇰",中视经典
 https://tv.iill.top/litv/4gtv-4gtv080
+#EXTINF:-1 tvg-id="" tvg-name="中视经典" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视经典.png" group-title="🇭🇰港澳台🇭🇰",中视经典
+P2p://starvod.xyz:19806/a0d66cf5bc664556b1547e965464a5df
 #EXTINF:-1 tvg-id="" tvg-name="中视经典" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视经典.png" group-title="🇭🇰港澳台🇭🇰",中视经典
 https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=4gtv-4gtv080
 #EXTINF:-1 tvg-id="" tvg-name="中视经典" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视经典.png" group-title="🇭🇰港澳台🇭🇰",中视经典
@@ -1658,13 +1704,15 @@ https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&
 #EXTINF:-1 tvg-id="" tvg-name="龙华戏剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/龙华戏剧.png" group-title="🇭🇰港澳台🇭🇰",龙华戏剧
 https://stream1.freetv.fun/long-hua-xi-ju-7.ctv
 #EXTINF:-1 tvg-id="" tvg-name="龙华戏剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/龙华戏剧.png" group-title="🇭🇰港澳台🇭🇰",龙华戏剧
+https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuaxiju_twn
+#EXTINF:-1 tvg-id="" tvg-name="龙华戏剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/龙华戏剧.png" group-title="🇭🇰港澳台🇭🇰",龙华戏剧
+P2p://starvod.xyz:19806/c01e140674374ad1801668e99b3f0b89
+#EXTINF:-1 tvg-id="" tvg-name="龙华戏剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/龙华戏剧.png" group-title="🇭🇰港澳台🇭🇰",龙华戏剧
 http://122.117.71.103:8533/http/61.222.53.250:8068/hls/13/80/cstv13.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="龙华戏剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/龙华戏剧.png" group-title="🇭🇰港澳台🇭🇰",龙华戏剧
 http://ku9.fr.to/smt.php?id=lunghuaxiju_twn
 #EXTINF:-1 tvg-id="" tvg-name="龙华戏剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/龙华戏剧.png" group-title="🇭🇰港澳台🇭🇰",龙华戏剧
 https://tv.iill.top/litv/litv-longturn18
-#EXTINF:-1 tvg-id="" tvg-name="龙华戏剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/龙华戏剧.png" group-title="🇭🇰港澳台🇭🇰",龙华戏剧
-https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuaxiju_twn
 #EXTINF:-1 tvg-id="" tvg-name="龙华戏剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/龙华戏剧.png" group-title="🇭🇰港澳台🇭🇰",龙华戏剧
 https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn18
 #EXTINF:-1 tvg-id="" tvg-name="龙华戏剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/龙华戏剧.png" group-title="🇭🇰港澳台🇭🇰",龙华戏剧
