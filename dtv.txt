@@ -151,6 +151,7 @@ CHC家庭影院,P2p://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21c
 纪实科教,rtp://239.3.1.115:8000
 金鹰纪实,http://a21709.tv.netsite.cc/proxy/46690299/46690299.m3u8
 金鹰纪实,rtp://239.3.1.58:8156
+金鹰卡通,http://125.114.241.226:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://106.118.70.231:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8$LR•IPV6『线路1』
 金鹰卡通,http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225653/index.m3u8$LR•IPV6『线路2』
@@ -263,7 +264,6 @@ CHC家庭影院,P2p://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21c
 金鹰卡通,http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 金鹰卡通,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
 金鹰卡通,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010107/1.m3u8
-优漫卡通,http://106.118.70.231:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8$LR•IPV6『线路1』
 优漫卡通,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225656/index.m3u8$LR•IPV6『线路2』
 优漫卡通,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225656/2.m3u8$LR•IPV6『线路3』
