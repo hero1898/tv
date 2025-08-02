@@ -151,7 +151,8 @@ CHC家庭影院,P2p://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21c
 纪实科教,rtp://239.3.1.115:8000
 金鹰纪实,http://a21709.tv.netsite.cc/proxy/46690299/46690299.m3u8
 金鹰纪实,rtp://239.3.1.58:8156
-金鹰卡通,http://101.66.199.230:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+卡酷动画,http://221.193.168.40:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://221.193.168.40:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8$LR•IPV6『线路1』
 金鹰卡通,http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225653/index.m3u8$LR•IPV6『线路2』
 金鹰卡通,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225653/2.m3u8$LR•IPV6『线路3』
@@ -349,4 +350,5 @@ CHC家庭影院,P2p://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21c
 哒啵赛事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 哒啵赛事,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226938/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErjVvYM0ZqthE-XIiqeoM2g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 哒啵电竞,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226889/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EyKHPEcCpKH4LmXqAQnvIbg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+梨园,http://123.163.114.154:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 
