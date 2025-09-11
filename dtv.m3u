@@ -292,9 +292,9 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="上海纪实人文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/上海纪实人文.png" group-title="🥝数字频道🥝",上海纪实人文
 http://a21709.tv.netsite.cc/proxy/1975883896/1975883896.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="纪实科教" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/纪实科教.png" group-title="🥝数字频道🥝",纪实科教
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="纪实科教" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/纪实科教.png" group-title="🥝数字频道🥝",纪实科教
 rtp://239.3.1.115:8000
+#EXTINF:-1 tvg-id="" tvg-name="纪实科教" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/纪实科教.png" group-title="🥝数字频道🥝",纪实科教
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/金鹰纪实.png" group-title="🥝数字频道🥝",金鹰纪实
 http://a21709.tv.netsite.cc/proxy/46690299/46690299.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/金鹰纪实.png" group-title="🥝数字频道🥝",金鹰纪实
