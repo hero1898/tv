@@ -4138,6 +4138,8 @@ http://dp.sxtv.top:88/2b/migu.php?id=cctv5p
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5+.png" group-title="🇨🇳央视频道🇨🇳",CCTV5+
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV6.png" group-title="🇨🇳央视频道🇨🇳",CCTV6
+http://182.126.119.133:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV6.png" group-title="🇨🇳央视频道🇨🇳",CCTV6
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225632/2/index.m3u8$LR•IPV6『线路1』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV6.png" group-title="🇨🇳央视频道🇨🇳",CCTV6
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225650/2/index.m3u8$LR•IPV6『线路2』
@@ -7551,6 +7553,8 @@ http://rihou.cc:55/lib/migu.php?id=cctv10
 http://dp.sxtv.top:88/2b/migu.php?id=cctv10
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV10.png" group-title="🇨🇳央视频道🇨🇳",CCTV10
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV11.png" group-title="🇨🇳央视频道🇨🇳",CCTV11
+http://182.126.119.133:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV11.png" group-title="🇨🇳央视频道🇨🇳",CCTV11
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225628/2/index.m3u8$LR•IPV6『线路1』
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV11.png" group-title="🇨🇳央视频道🇨🇳",CCTV11
