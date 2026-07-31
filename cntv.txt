@@ -1,5 +1,4 @@
 🛰️卫视频道🛰️,#genre#
-湖南卫视,http://182.114.50.55:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225704/2/index.m3u8$LR•IPV6『线路1』
 湖南卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225745/2/index.m3u8$LR•IPV6『线路2』
 湖南卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225490/2/index.m3u8$LR•IPV6『线路3』
@@ -913,6 +912,7 @@
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 东方卫视,mitv://generationnexxxt.com:19806/10521db17e054dbeba85448ac091ae64
 东方卫视,P2p://generationnexxxt.com:19806/10521db17e054dbeba85448ac091ae64
+江苏卫视,http://125.43.249.115:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225702/2/index.m3u8$LR•IPV6『线路1』
 江苏卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225488/2/index.m3u8$LR•IPV6『线路2』
 江苏卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225702/index.m3u8$LR•IPV6『线路3』
@@ -1228,7 +1228,6 @@
 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226495/index.m3u8
 江苏卫视,mitv://generationnexxxt.com:19806/13f3f27751184d95902e5c588264551e
 江苏卫视,P2p://generationnexxxt.com:19806/13f3f27751184d95902e5c588264551e
-北京卫视,http://182.114.50.55:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225674/index.m3u8$LR•IPV6『线路1』
 北京卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225673/2/index.m3u8$LR•IPV6『线路2』
 北京卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225674/2/index.m3u8$LR•IPV6『线路3』
@@ -1839,7 +1838,6 @@
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226374/index.m3u8
 广东卫视,mitv://generationnexxxt.com:19806/cf7073fbb4c5490a86aca002247700f9
 广东卫视,P2p://generationnexxxt.com:19806/cf7073fbb4c5490a86aca002247700f9
-深圳卫视,http://182.114.50.55:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226313/index.m3u8$LR•IPV6『线路1』
 深圳卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8$LR•IPV6『线路2』
 深圳卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226313/index.m3u8$LR•IPV6『线路3』
@@ -2877,7 +2875,6 @@
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
 天津卫视,mitv://generationnexxxt.com:19806/0d7fa1ec8c4348e29bc3f09a38ae3691
 天津卫视,P2p://generationnexxxt.com:19806/0d7fa1ec8c4348e29bc3f09a38ae3691
-湖北卫视,http://182.114.50.55:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225699/2/index.m3u8$LR•IPV6『线路1』
 湖北卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225699/index.m3u8$LR•IPV6『线路2』
 湖北卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226501/index.m3u8$LR•IPV6『线路3』
