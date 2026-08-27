@@ -12,6 +12,8 @@ CHC家庭影院,P2p://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21c
 纪实科教,rtp://239.3.1.115:8000
 纪实科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 金鹰纪实,rtp://239.3.1.58:8156
+金鹰卡通,http://101.66.195.5:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通,http://125.42.150.128:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://qjrhc.jydjd.top:2911/udp/224.1.100.113:11111
 金鹰卡通,http://qjrhc.jydjd.top:2911/udp/224.1.100.114:11111
 金鹰卡通,http://nas.hssvm.com:8888/udp/225.1.2.236:5002
