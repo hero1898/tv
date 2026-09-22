@@ -552,6 +552,8 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="🛰️卫视频道🛰️",海南卫视
 http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8#http://qjrhc.jydjd.top:2911/udp/224.1.100.15:11111#http://nas.hssvm.com:8888/udp/225.1.2.82:5002#http://nn.7x9d.cn/地方台8563/海南.php?id=hnws#https://www.freetv.top/migu/947472502.m3u8?migutoken=7837384e48fd26a97f31b5166b88580720ebc21f5e10f392561f571058dda831b33433f9113b41fa03dff482db5244ae83df7b277e82cf7a4651045d113b16c3733999e3c4428166e0995051a4#http://218.89.240.144:59901/tsfile/live/1000_1.m3u8#http://qjrhc.jydjd.top:2911/udp/224.1.100.16:11111#http://221.2.148.205:8154/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="🛰️卫视频道🛰️",海南卫视
+rtp://239.3.1.205:8228
+#EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="🛰️卫视频道🛰️",海南卫视
 http://114.254.89.70:2222/rtp/239.3.1.45:8304
 #EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="🛰️卫视频道🛰️",海南卫视
 http://rihou.cc:55/lib/migu.php?id=hinws
@@ -684,6 +686,8 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/陕西卫视.png" group-title="🛰️卫视频道🛰️",陕西卫视
 http://124.128.73.58:9901/tsfile/live/0136_1.m3u8#http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/陕西卫视.png" group-title="🛰️卫视频道🛰️",陕西卫视
+rtp://239.3.1.203:8220
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/陕西卫视.png" group-title="🛰️卫视频道🛰️",陕西卫视
 http://114.254.89.70:2222/rtp/239.3.1.41:8140
 #EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/陕西卫视.png" group-title="🛰️卫视频道🛰️",陕西卫视
 http://rihou.cc:55/lib/migu.php?id=sxws
@@ -703,6 +707,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/内蒙古卫视.png" group-title="🛰️卫视频道🛰️",内蒙古卫视
 http://39.164.180.36:19901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0#http://61.156.228.12:8154/tsfile/live/0109_1.m3u8#http://61.138.128.226:19901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0#http://nas.hssvm.com:8888/udp/225.1.1.32:5002#http://111.61.236.247:9081/hls/48/index.m3u8#http://221.2.148.205:8154/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0#http://222.134.245.16:9901/tsfile/live/0109_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/内蒙古卫视.png" group-title="🛰️卫视频道🛰️",内蒙古卫视
+rtp://239.3.1.204:8224
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/内蒙古卫视.png" group-title="🛰️卫视频道🛰️",内蒙古卫视
 http://rihou.cc:55/lib/migu.php?id=nmws
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/内蒙古卫视.png" group-title="🛰️卫视频道🛰️",内蒙古卫视
@@ -733,6 +739,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8
 mitv://generationnexxxt.com:19806/2f690600a9454710b15b0e90853268c3
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/黑龙江卫视.png" group-title="🛰️卫视频道🛰️",黑龙江卫视
 P2p://generationnexxxt.com:19806/2f690600a9454710b15b0e90853268c3
+#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CHC动作电影.png" group-title="🥝数字频道🥝",CHC动作电影
+rtp://239.3.1.106:8001
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CHC动作电影.png" group-title="🥝数字频道🥝",CHC动作电影
 http://rihou.cc:55/lib/migu.php?id=chcdzdy
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CHC动作电影.png" group-title="🥝数字频道🥝",CHC动作电影
