@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CHC动作电影.png" group-title="🥝数字频道🥝",CHC动作电影
+rtp://239.3.1.106:8001
+#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CHC动作电影.png" group-title="🥝数字频道🥝",CHC动作电影
 http://rihou.cc:55/lib/migu.php?id=chcdzdy
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CHC动作电影.png" group-title="🥝数字频道🥝",CHC动作电影
 mitv://generationnexxxt.com:19806/1b4ebad47ed94c6291646a4a5d1ff3b6
