@@ -152,8 +152,6 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江卫视.png" group-title="🛰️卫视频道🛰️",浙江卫视
 http://qjrhc.jydjd.top:2911/udp/224.1.100.51:11111#http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://39.164.180.36:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0#http://drive.mxmy.net:8888/udp/239.3.1.137:8036#http://111.61.236.247:9081/hls/25/index.m3u8#http://116.9.204.242:9901/tsfile/live/0122_2.m3u8?key=txiptv&playlive=1&authid=0#http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8#http://qjrhc.jydjd.top:2911/udp/224.1.100.52:11111#http://116.9.204.242:9901/tsfile/live/0122_2.m3u8#http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8#http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://223.241.247.214:9901/tsfile/live/1010_1.m3u8#http://124.128.73.58:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0#http://nas.hssvm.com:8888/udp/225.1.1.112:5002#http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江卫视.png" group-title="🛰️卫视频道🛰️",浙江卫视
-http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江卫视.png" group-title="🛰️卫视频道🛰️",浙江卫视
 rtp://239.3.1.114:3004
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江卫视.png" group-title="🛰️卫视频道🛰️",浙江卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
@@ -820,8 +818,6 @@ P2p://generationnexxxt.com:19806/d75057c993f84e7c86f94e8f1e56ad24
 #EXTINF:-1 tvg-id="" tvg-name="哒啵赛事" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/哒啵赛事.png" group-title="🥝数字频道🥝",哒啵赛事
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
-http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
 http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012
@@ -831,8 +827,6 @@ http://113.64.145.195:8081/hls/37/index.m3u8
 http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="🇭🇰港澳台🇭🇰",凤凰资讯
-http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="🇭🇰港澳台🇭🇰",凤凰资讯
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="🇭🇰港澳台🇭🇰",凤凰资讯
